@@ -16,7 +16,6 @@
     </style>
 
     <style name="AppSplash" parent="android:Theme">
-        <item name="android:windowBackground">@drawable/launch</item>
         <item name="android:windowNoTitle">true</item>
         <item name="android:windowFullscreen">true</item>
     </style>

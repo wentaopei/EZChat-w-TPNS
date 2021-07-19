@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
+            "outputFile": "/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
             "map": [
                 {
-                    "source": "/Users/KenPei/.gradle/caches/transforms-2/files-2.1/c527b78844be871c44103f6f45a963fb/core-1.1.0/res/values-v16/values-v16.xml",
+                    "source": "/Users/wentaopei/.gradle/caches/transforms-2/files-2.1/062235506723b4139567f7f9df5c99ab/core-1.5.0/res/values-v16/values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "/Users/KenPei/.gradle/caches/transforms-2/files-2.1/37ec02f661e3547c5499ecdfd9f3cd1f/appcompat-1.1.0/res/values-v16/values-v16.xml",
+                    "source": "/Users/wentaopei/.gradle/caches/transforms-2/files-2.1/b7ed15e6702d573cf7ea2497729095d5/appcompat-1.3.0/res/values-v16/values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

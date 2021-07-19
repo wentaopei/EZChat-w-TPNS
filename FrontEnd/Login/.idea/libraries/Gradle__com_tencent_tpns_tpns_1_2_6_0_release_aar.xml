@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: com.tencent.tpns:tpns:1.2.6.0-release@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/318ff49b99f58602c8b768dc12baab4b/jetified-tpns-1.2.6.0-release/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/318ff49b99f58602c8b768dc12baab4b/jetified-tpns-1.2.6.0-release/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/318ff49b99f58602c8b768dc12baab4b/jetified-tpns-1.2.6.0-release/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/318ff49b99f58602c8b768dc12baab4b/jetified-tpns-1.2.6.0-release/jars/libs/tpns-core-sdk-1.2.6.0.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/318ff49b99f58602c8b768dc12baab4b/jetified-tpns-1.2.6.0-release/jars/libs/tpns-mqttv3-sdk-1.2.6.0.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/318ff49b99f58602c8b768dc12baab4b/jetified-tpns-1.2.6.0-release/jars/libs/tpns-mqttchannel-sdk-1.2.6.0.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/318ff49b99f58602c8b768dc12baab4b/jetified-tpns-1.2.6.0-release/jars/libs/tpns-baseapi-sdk-1.2.6.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.tencent.tpns/tpns/1.2.6.0-release/140d519c43bf2288bf5ab210637a15dab0d5b971/tpns-1.2.6.0-release-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

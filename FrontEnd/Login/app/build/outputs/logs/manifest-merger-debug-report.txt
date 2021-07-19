@@ -1,353 +1,633 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:2:1-71:12
-INJECTED from /Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:2:1-71:12
-INJECTED from /Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:2:1-71:12
-INJECTED from /Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:2:1-71:12
-MERGED from [androidx.navigation:navigation-ui:2.1.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/04ff20dc90e15dad0ddb86d54fbda395/jetified-navigation-ui-2.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [com.google.android.material:material:1.0.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/cb634fe4b4d1fdfcd5255e485d30a0c1/material-1.0.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/37ec02f661e3547c5499ecdfd9f3cd1f/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/1964611a1907e3ea07b40ce4c516c284/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/df470e1373f88845f5f332cb0d11af75/lifecycle-extensions-2.1.0/AndroidManifest.xml:17:1-25:12
-MERGED from [androidx.navigation:navigation-fragment:2.1.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/03960375614ad4ea21ed2b73ce693c42/navigation-fragment-2.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.fragment:fragment:1.1.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/add2bdb41de46d90e5d3bd4e75929820/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/dd07e922b5233b833d82ee834e6becf7/appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/bbc51c53aec70aeae5178e82f15e817a/recyclerview-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/abc680e55824c418c024460e31034ed4/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/34085af895daa23049fd0af188e6a001/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/ba2af06f417607d7ef1ca9f201a0d139/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.media:media:1.0.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/a6ce3afbff3f1ae3fa1fe13048b173d9/media-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.transition:transition:1.0.1] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/80b2360a587be5f7a2d6fa8510bd68ae/transition-1.0.1/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/f3997ce16a5c00ae84a772d300d0e1e8/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.loader:loader:1.0.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/331f61861c2d3a925f2252286afb1f53/loader-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.navigation:navigation-runtime:2.1.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/25184bdd3b8b86ccb574529c2d71d374/navigation-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.activity:activity:1.0.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/daa47187fb0f0a7c419d1b10e1677cdd/activity-1.0.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/beed28e19d4f55ab2c17aff66e0bc400/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/e0d80e5c178a0db065288a448fc598ef/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/04087833f388d5ffa97a080d757646c2/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/eb11c4797d5d5b24d5dcbbebe26babf4/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.customview:customview:1.0.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/740a70a0c89c8c085b6e012b4bd7790e/customview-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/31dc29ba3158cee4b1ca2bf2f6ff141b/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/435f1166e6a428a0025d9cd273cb35a2/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.navigation:navigation-common:2.1.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/dc8d52f8dfaa327f6112d600b705a5ab/navigation-common-2.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.core:core:1.1.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/c527b78844be871c44103f6f45a963fb/core-1.1.0/AndroidManifest.xml:17:1-26:12
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/aa91d8d2653c363bbd5da9d9892260d3/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.cardview:cardview:1.0.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/ccc4f60e4549c263b614feec2a027fa2/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/c75b512c68f7bb7a7c5a931aae563be5/lifecycle-process-2.1.0/AndroidManifest.xml:17:1-30:12
-MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/f297fd1a37e8f1e094c72340601523f6/lifecycle-service-2.1.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/0554424e228349ffc3db0700d1324aa1/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/35ea013adaf2265b5a814edcc0e48b35/lifecycle-livedata-2.1.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.1.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/77486900ea0f341dcb2eb60412232b54/lifecycle-livedata-core-2.1.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/384e1b5d703f7ead48bd253f34125353/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/7acef2a7bfef3795312317efec15d83e/savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/bad233a64070d55cab9a83b26afbf154/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/c9c8616d74aa0ab3eb457d24b669c685/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
-MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/d4ef17d609918d2a5f5a86d1ea02678f/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/9d52be8c254a228a91eaf05f51d52923/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/9093771a98b01557e81860f4122d7892/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.print:print:1.0.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/7ec682ca46f5c90ea9a9e0cba0c0310a/print-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/8392647ca9531c13a8f0d6b7ad086e7e/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
-MERGED from [com.android.volley:volley:1.1.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/87e0876cd83f4b7cdaf8d0dd2022bd32/volley-1.1.0/AndroidManifest.xml:2:1-11:12
-INJECTED from /Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:2:1-71:12
-INJECTED from /Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:2:1-71:12
-INJECTED from /Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:2:1-71:12
+ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:2:1-167:12
+INJECTED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:2:1-167:12
+INJECTED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:2:1-167:12
+INJECTED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:2:1-167:12
+MERGED from [androidx.navigation:navigation-ui:2.3.5] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/9a720c89e66d9498eac95df7fdfd5b8e/navigation-ui-2.3.5/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.4.0] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/f5987d57ea18336470b43ef56c53cf8d/material-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/bc9ed080db3f89ed2b4b72bdd583174e/constraintlayout-2.0.4/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.3.0] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/b7ed15e6702d573cf7ea2497729095d5/appcompat-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/1964611a1907e3ea07b40ce4c516c284/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/e7f6f6d73de1836643c7170cea8cbaf8/lifecycle-extensions-2.2.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.navigation:navigation-fragment:2.3.5] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/5a9cc32938245da5b107fa1dceb406e9/navigation-fragment-2.3.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/4336eb59d7e582316997572d66343b15/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.4] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/02592219bedea5f2bc5d10fbdb8b5162/fragment-1.3.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime:2.3.5] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/eb5ad8b404e64a0d852d0946005f6a05/navigation-runtime-2.3.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.3] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/06aaca427d46a146f0668094816e1246/activity-1.2.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/fab6d1e2358d56ff86650f1cf642aee0/appcompat-resources-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/abc680e55824c418c024460e31034ed4/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/b0149f4c947c05b760f5cf06ab6d8060/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/dea41516f6dbaeb92a1473ba5bf5e1c3/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/beed28e19d4f55ab2c17aff66e0bc400/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/e0d80e5c178a0db065288a448fc598ef/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.0] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/a6ce3afbff3f1ae3fa1fe13048b173d9/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/ba2af06f417607d7ef1ca9f201a0d139/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/fba97084901938e53e456a9eb6994de3/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.3.0] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/377eb583079078e105250a9b6561e8a8/transition-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/f3997ce16a5c00ae84a772d300d0e1e8/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/2bf200c3ed6f794fd90e7a7e5e0ea6de/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/eb11c4797d5d5b24d5dcbbebe26babf4/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/9b497a05dc550ca34bbce4514998cebb/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/331f61861c2d3a925f2252286afb1f53/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/31dc29ba3158cee4b1ca2bf2f6ff141b/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/435f1166e6a428a0025d9cd273cb35a2/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common:2.3.5] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/32ae8c7335d86f5a5fc0e9ac1aecd5e1/navigation-common-2.3.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.5.0] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/062235506723b4139567f7f9df5c99ab/core-1.5.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/aa91d8d2653c363bbd5da9d9892260d3/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/c0852d862633413004b1fcadfc81f923/lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/93054aef6f9f3d414bf0a40f9ab5c975/savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/1b8bf5e23e9a70b030eaeb641b1409a0/lifecycle-process-2.2.0/AndroidManifest.xml:17:1-32:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/81be015ee16d7afb6bf291abe682c377/lifecycle-service-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/f5cdb4c67dccaecd6edd7e282d4f6cf8/lifecycle-runtime-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/541233d6b68a527cc1d06543fac03351/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/ccc4f60e4549c263b614feec2a027fa2/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/a122ffd4c0fe608c1613ec63d113b06d/lifecycle-livedata-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/da76052db9fdf345c63cec4b9f04eec9/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/384e1b5d703f7ead48bd253f34125353/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/b13ba3a76592f7815a0d0b680c74779e/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/4c85a92a61b292345ab8f6bbc9c7d9ed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/9d52be8c254a228a91eaf05f51d52923/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/9093771a98b01557e81860f4122d7892/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/7ec682ca46f5c90ea9a9e0cba0c0310a/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/d4ef17d609918d2a5f5a86d1ea02678f/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.volley:volley:1.2.0] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/3a0373a1b6c7ac9313f377d628b3a598/volley-1.2.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.tencent.tpns:tpns:1.2.6.0-release] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/318ff49b99f58602c8b768dc12baab4b/jetified-tpns-1.2.6.0-release/AndroidManifest.xml:2:1-143:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/67d7c60129a9403f7d5352137cc4ccea/annotation-experimental-1.0.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:2:1-167:12
+INJECTED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:2:1-167:12
+INJECTED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:2:1-167:12
 	package
-		ADDED from /Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:3:5-33
-		INJECTED from /Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml
+		ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:3:5-33
+		INJECTED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml
-		ADDED from /Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:2:1-71:12
-		INJECTED from /Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml
+		ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:2:1-167:12
+		INJECTED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml
-		ADDED from /Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:2:1-71:12
-		INJECTED from /Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml
+		ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:2:1-167:12
+		INJECTED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:2:11-69
+permission#com.example.ezchat.permission.XGPUSH_RECEIVE
+ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:5:5-7:47
+MERGED from [com.tencent.tpns:tpns:1.2.6.0-release] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/318ff49b99f58602c8b768dc12baab4b/jetified-tpns-1.2.6.0-release/AndroidManifest.xml:26:5-28:47
+	android:protectionLevel
+		ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:7:9-44
+	android:name
+		ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:6:9-68
+uses-permission#com.example.ezchat.permission.XGPUSH_RECEIVE
+ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:8:5-84
+MERGED from [com.tencent.tpns:tpns:1.2.6.0-release] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/318ff49b99f58602c8b768dc12baab4b/jetified-tpns-1.2.6.0-release/AndroidManifest.xml:30:5-82
+	android:name
+		ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:8:22-81
 uses-permission#android.permission.INTERNET
-ADDED from /Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:5:5-67
+ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:10:5-67
+MERGED from [com.tencent.tpns:tpns:1.2.6.0-release] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/318ff49b99f58602c8b768dc12baab4b/jetified-tpns-1.2.6.0-release/AndroidManifest.xml:12:5-67
+MERGED from [com.tencent.tpns:tpns:1.2.6.0-release] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/318ff49b99f58602c8b768dc12baab4b/jetified-tpns-1.2.6.0-release/AndroidManifest.xml:12:5-67
 	android:name
-		ADDED from /Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:5:22-64
+		ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:10:22-64
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:11:5-76
+MERGED from [com.tencent.tpns:tpns:1.2.6.0-release] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/318ff49b99f58602c8b768dc12baab4b/jetified-tpns-1.2.6.0-release/AndroidManifest.xml:13:5-76
+MERGED from [com.tencent.tpns:tpns:1.2.6.0-release] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/318ff49b99f58602c8b768dc12baab4b/jetified-tpns-1.2.6.0-release/AndroidManifest.xml:13:5-76
+	android:name
+		ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:11:22-73
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from /Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:6:5-79
+ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:12:5-79
+MERGED from [com.tencent.tpns:tpns:1.2.6.0-release] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/318ff49b99f58602c8b768dc12baab4b/jetified-tpns-1.2.6.0-release/AndroidManifest.xml:14:5-79
+MERGED from [com.tencent.tpns:tpns:1.2.6.0-release] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/318ff49b99f58602c8b768dc12baab4b/jetified-tpns-1.2.6.0-release/AndroidManifest.xml:14:5-79
 	android:name
-		ADDED from /Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:6:22-76
+		ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:12:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:14:5-68
+MERGED from [com.tencent.tpns:tpns:1.2.6.0-release] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/318ff49b99f58602c8b768dc12baab4b/jetified-tpns-1.2.6.0-release/AndroidManifest.xml:15:5-68
+MERGED from [com.tencent.tpns:tpns:1.2.6.0-release] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/318ff49b99f58602c8b768dc12baab4b/jetified-tpns-1.2.6.0-release/AndroidManifest.xml:15:5-68
+	android:name
+		ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:14:22-65
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:15:5-66
+MERGED from [com.tencent.tpns:tpns:1.2.6.0-release] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/318ff49b99f58602c8b768dc12baab4b/jetified-tpns-1.2.6.0-release/AndroidManifest.xml:16:5-66
+MERGED from [com.tencent.tpns:tpns:1.2.6.0-release] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/318ff49b99f58602c8b768dc12baab4b/jetified-tpns-1.2.6.0-release/AndroidManifest.xml:16:5-66
+	android:name
+		ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:15:22-63
+uses-permission#android.permission.RECEIVE_USER_PRESENT
+ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:16:5-79
+MERGED from [com.tencent.tpns:tpns:1.2.6.0-release] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/318ff49b99f58602c8b768dc12baab4b/jetified-tpns-1.2.6.0-release/AndroidManifest.xml:18:5-79
+MERGED from [com.tencent.tpns:tpns:1.2.6.0-release] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/318ff49b99f58602c8b768dc12baab4b/jetified-tpns-1.2.6.0-release/AndroidManifest.xml:18:5-79
+	android:name
+		ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:16:22-76
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:17:5-75
+	android:name
+		ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:17:22-72
+uses-permission#android.permission.GET_TASKS
+ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:18:5-68
+MERGED from [com.tencent.tpns:tpns:1.2.6.0-release] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/318ff49b99f58602c8b768dc12baab4b/jetified-tpns-1.2.6.0-release/AndroidManifest.xml:24:5-68
+MERGED from [com.tencent.tpns:tpns:1.2.6.0-release] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/318ff49b99f58602c8b768dc12baab4b/jetified-tpns-1.2.6.0-release/AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:18:22-65
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from /Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:7:5-81
+ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:20:5-81
+MERGED from [com.tencent.tpns:tpns:1.2.6.0-release] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/318ff49b99f58602c8b768dc12baab4b/jetified-tpns-1.2.6.0-release/AndroidManifest.xml:19:5-81
+MERGED from [com.tencent.tpns:tpns:1.2.6.0-release] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/318ff49b99f58602c8b768dc12baab4b/jetified-tpns-1.2.6.0-release/AndroidManifest.xml:19:5-81
 	android:name
-		ADDED from /Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:7:22-78
+		ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:20:22-78
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from /Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:8:5-80
+ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:21:5-80
 	android:name
-		ADDED from /Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:8:22-77
+		ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:21:22-77
 uses-permission#android.permission.WRITE_INTERNAL_STORAGE
-ADDED from /Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:9:5-81
+ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:22:5-81
 	android:name
-		ADDED from /Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:9:22-78
+		ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:22:22-78
 uses-permission#android.permission.READ_INTERNAL_STORAGE
-ADDED from /Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:10:5-80
+ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:23:5-80
 	android:name
-		ADDED from /Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:10:22-77
+		ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:23:22-77
 uses-permission#android.permission.CAMERA
-ADDED from /Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:12:5-65
+ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:25:5-65
 	android:name
-		ADDED from /Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:12:22-62
+		ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:25:22-62
 uses-feature#android.hardware.camera
-ADDED from /Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:14:5-60
+ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:28:5-60
 	android:name
-		ADDED from /Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:14:19-57
+		ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:28:19-57
 uses-permission#android.hardware.camera.autofocus
-ADDED from /Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:16:5-73
+ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:30:5-73
 	android:name
-		ADDED from /Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:16:22-70
+		ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:30:22-70
 uses-permission#android.permission.FLASHLIGHT
-ADDED from /Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:17:5-69
+ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:31:5-69
 	android:name
-		ADDED from /Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:17:22-66
+		ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:31:22-66
 application
-ADDED from /Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:19:5-69:19
-MERGED from [com.google.android.material:material:1.0.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/cb634fe4b4d1fdfcd5255e485d30a0c1/material-1.0.0/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.material:material:1.0.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/cb634fe4b4d1fdfcd5255e485d30a0c1/material-1.0.0/AndroidManifest.xml:22:5-20
-MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/df470e1373f88845f5f332cb0d11af75/lifecycle-extensions-2.1.0/AndroidManifest.xml:22:5-23:19
-MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/df470e1373f88845f5f332cb0d11af75/lifecycle-extensions-2.1.0/AndroidManifest.xml:22:5-23:19
-MERGED from [androidx.core:core:1.1.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/c527b78844be871c44103f6f45a963fb/core-1.1.0/AndroidManifest.xml:24:5-89
-MERGED from [androidx.core:core:1.1.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/c527b78844be871c44103f6f45a963fb/core-1.1.0/AndroidManifest.xml:24:5-89
-MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/c75b512c68f7bb7a7c5a931aae563be5/lifecycle-process-2.1.0/AndroidManifest.xml:22:5-28:19
-MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/c75b512c68f7bb7a7c5a931aae563be5/lifecycle-process-2.1.0/AndroidManifest.xml:22:5-28:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/c9c8616d74aa0ab3eb457d24b669c685/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/c9c8616d74aa0ab3eb457d24b669c685/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
-MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/8392647ca9531c13a8f0d6b7ad086e7e/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
-MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/8392647ca9531c13a8f0d6b7ad086e7e/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
-MERGED from [com.android.volley:volley:1.1.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/87e0876cd83f4b7cdaf8d0dd2022bd32/volley-1.1.0/AndroidManifest.xml:9:5-20
-MERGED from [com.android.volley:volley:1.1.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/87e0876cd83f4b7cdaf8d0dd2022bd32/volley-1.1.0/AndroidManifest.xml:9:5-20
+ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:33:5-165:19
+MERGED from [com.google.android.material:material:1.4.0] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/f5987d57ea18336470b43ef56c53cf8d/material-1.4.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.4.0] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/f5987d57ea18336470b43ef56c53cf8d/material-1.4.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/bc9ed080db3f89ed2b4b72bdd583174e/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/bc9ed080db3f89ed2b4b72bdd583174e/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/e7f6f6d73de1836643c7170cea8cbaf8/lifecycle-extensions-2.2.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/e7f6f6d73de1836643c7170cea8cbaf8/lifecycle-extensions-2.2.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.core:core:1.5.0] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/062235506723b4139567f7f9df5c99ab/core-1.5.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.5.0] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/062235506723b4139567f7f9df5c99ab/core-1.5.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/1b8bf5e23e9a70b030eaeb641b1409a0/lifecycle-process-2.2.0/AndroidManifest.xml:24:5-30:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/1b8bf5e23e9a70b030eaeb641b1409a0/lifecycle-process-2.2.0/AndroidManifest.xml:24:5-30:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/b13ba3a76592f7815a0d0b680c74779e/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/b13ba3a76592f7815a0d0b680c74779e/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [com.tencent.tpns:tpns:1.2.6.0-release] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/318ff49b99f58602c8b768dc12baab4b/jetified-tpns-1.2.6.0-release/AndroidManifest.xml:32:5-141:19
+MERGED from [com.tencent.tpns:tpns:1.2.6.0-release] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/318ff49b99f58602c8b768dc12baab4b/jetified-tpns-1.2.6.0-release/AndroidManifest.xml:32:5-141:19
 	android:appComponentFactory
-		ADDED from [androidx.core:core:1.1.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/c527b78844be871c44103f6f45a963fb/core-1.1.0/AndroidManifest.xml:24:18-86
+		ADDED from [androidx.core:core:1.5.0] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/062235506723b4139567f7f9df5c99ab/core-1.5.0/AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from /Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:26:9-35
+		ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:40:9-35
 	android:label
-		ADDED from /Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:23:9-41
+		ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:37:9-41
 	android:roundIcon
-		ADDED from /Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:25:9-54
+		ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:39:9-54
 	android:icon
-		ADDED from /Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:22:9-43
+		ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:36:9-43
 	android:allowBackup
-		ADDED from /Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:21:9-35
+		ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:35:9-35
 	android:theme
-		ADDED from /Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:27:9-40
+		ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:41:9-40
 	android:networkSecurityConfig
-		ADDED from /Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:24:9-69
+		ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:38:9-69
 	android:name
-		ADDED from /Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:20:9-41
+		ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:34:9-41
 uses-library#org.apache.http.legacy
-ADDED from /Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:28:9-88
+ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:42:9-88
 	android:required
-		ADDED from /Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:28:61-85
+		ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:42:61-85
 	android:name
-		ADDED from /Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:28:23-60
+		ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:42:23-60
 activity#com.example.ezchat.ui.activity.NewPostActivity
-ADDED from /Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:29:9-74
+ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:43:9-74
 	android:name
-		ADDED from /Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:29:19-62
+		ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:43:19-62
 activity#com.example.ezchat.ui.activity.PhotoActivity
-ADDED from /Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:30:9-72
+ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:44:9-72
 	android:name
-		ADDED from /Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:30:19-60
+		ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:44:19-60
 activity#com.example.ezchat.ui.activity.LaunchActivity
-ADDED from /Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:31:9-37:20
+ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:45:9-51:20
 	android:theme
-		ADDED from /Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:32:13-45
+		ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:46:13-45
 	android:name
-		ADDED from /Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:31:19-61
+		ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:45:19-61
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:33:13-36:29
+ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:47:13-50:29
 action#android.intent.action.MAIN
-ADDED from /Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:34:17-69
+ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:48:17-69
 	android:name
-		ADDED from /Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:34:25-66
+		ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:48:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:35:17-77
+ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:49:17-77
 	android:name
-		ADDED from /Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:35:27-74
+		ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:49:27-74
 activity#com.example.ezchat.ui.activity.GroupChatActivity
-ADDED from /Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:41:9-44:67
+ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:55:9-58:67
 	android:label
-		ADDED from /Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:43:13-39
+		ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:57:13-39
 	android:windowSoftInputMode
-		ADDED from /Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:44:13-64
+		ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:58:13-64
 	android:name
-		ADDED from /Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:42:13-58
+		ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:56:13-58
 activity#com.example.ezchat.ui.activity.MomentsActivity
-ADDED from /Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:45:9-47:39
+ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:59:9-61:39
 	android:label
-		ADDED from /Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:47:13-36
+		ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:61:13-36
 	android:name
-		ADDED from /Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:46:13-56
+		ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:60:13-56
 activity#com.example.ezchat.ui.activity.AcceptRequestActivity
-ADDED from /Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:48:9-71
+ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:62:9-71
 	android:name
-		ADDED from /Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:48:19-68
+		ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:62:19-68
 activity#com.example.ezchat.ui.activity.SearchNewFriendsActivity
-ADDED from /Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:49:9-74
+ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:63:9-74
 	android:name
-		ADDED from /Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:49:19-71
+		ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:63:19-71
 activity#com.example.ezchat.ui.activity.FriendsProfileActivity
-ADDED from /Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:50:9-72
+ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:64:9-72
 	android:name
-		ADDED from /Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:50:19-69
+		ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:64:19-69
 activity#com.example.ezchat.ui.activity.FriendSearchActivity
-ADDED from /Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:51:9-70
+ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:65:9-70
 	android:name
-		ADDED from /Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:51:19-67
+		ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:65:19-67
 activity#com.example.ezchat.ui.activity.SuccessSignUp
-ADDED from /Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:52:9-63
+ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:66:9-63
 	android:name
-		ADDED from /Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:52:19-60
+		ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:66:19-60
 meta-data#com.google.android.actions
-ADDED from /Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:54:9-56:63
+ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:68:9-70:63
 	android:resource
-		ADDED from /Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:56:13-60
+		ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:70:13-60
 	android:name
-		ADDED from /Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:55:13-54
+		ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:69:13-54
 activity#com.example.ezchat.ui.activity.ChatActivity
-ADDED from /Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:57:9-59:48
+ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:71:9-73:48
 	android:label
-		ADDED from /Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:59:13-45
+		ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:73:13-45
 	android:name
-		ADDED from /Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:58:13-53
+		ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:72:13-53
 activity#com.example.ezchat.ui.activity.UserActivity
-ADDED from /Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:60:9-62
+ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:74:9-62
 	android:name
-		ADDED from /Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:60:19-59
+		ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:74:19-59
 activity#com.example.ezchat.ui.activity.Pub_MainPage
-ADDED from /Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:61:9-62
+ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:75:9-62
 	android:name
-		ADDED from /Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:61:19-59
+		ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:75:19-59
 activity#com.example.ezchat.ui.activity.RegisterActivity
-ADDED from /Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:62:9-66
+ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:76:9-66
 	android:name
-		ADDED from /Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:62:19-63
+		ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:76:19-63
 activity#com.example.ezchat.ui.activity.Admin_MainPage
-ADDED from /Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:63:9-64
+ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:77:9-64
 	android:name
-		ADDED from /Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:63:19-61
+		ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:77:19-61
 activity#com.example.ezchat.ui.login.LoginActivity
-ADDED from /Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:64:9-68:20
+ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:78:9-82:20
 	android:label
-		ADDED from /Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:66:13-45
+		ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:80:13-45
 	android:theme
-		ADDED from /Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:67:13-43
+		ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:81:13-43
 	android:name
-		ADDED from /Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:65:13-51
-uses-sdk
-INJECTED from /Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml
-INJECTED from /Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml
-MERGED from [androidx.navigation:navigation-ui:2.1.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/04ff20dc90e15dad0ddb86d54fbda395/jetified-navigation-ui-2.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.navigation:navigation-ui:2.1.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/04ff20dc90e15dad0ddb86d54fbda395/jetified-navigation-ui-2.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [com.google.android.material:material:1.0.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/cb634fe4b4d1fdfcd5255e485d30a0c1/material-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.material:material:1.0.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/cb634fe4b4d1fdfcd5255e485d30a0c1/material-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/37ec02f661e3547c5499ecdfd9f3cd1f/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/37ec02f661e3547c5499ecdfd9f3cd1f/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/1964611a1907e3ea07b40ce4c516c284/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/1964611a1907e3ea07b40ce4c516c284/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/df470e1373f88845f5f332cb0d11af75/lifecycle-extensions-2.1.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/df470e1373f88845f5f332cb0d11af75/lifecycle-extensions-2.1.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.navigation:navigation-fragment:2.1.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/03960375614ad4ea21ed2b73ce693c42/navigation-fragment-2.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.navigation:navigation-fragment:2.1.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/03960375614ad4ea21ed2b73ce693c42/navigation-fragment-2.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.fragment:fragment:1.1.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/add2bdb41de46d90e5d3bd4e75929820/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.fragment:fragment:1.1.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/add2bdb41de46d90e5d3bd4e75929820/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/dd07e922b5233b833d82ee834e6becf7/appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/dd07e922b5233b833d82ee834e6becf7/appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/bbc51c53aec70aeae5178e82f15e817a/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/bbc51c53aec70aeae5178e82f15e817a/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/abc680e55824c418c024460e31034ed4/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/abc680e55824c418c024460e31034ed4/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/34085af895daa23049fd0af188e6a001/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/34085af895daa23049fd0af188e6a001/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/ba2af06f417607d7ef1ca9f201a0d139/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/ba2af06f417607d7ef1ca9f201a0d139/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.media:media:1.0.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/a6ce3afbff3f1ae3fa1fe13048b173d9/media-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.media:media:1.0.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/a6ce3afbff3f1ae3fa1fe13048b173d9/media-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.transition:transition:1.0.1] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/80b2360a587be5f7a2d6fa8510bd68ae/transition-1.0.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.transition:transition:1.0.1] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/80b2360a587be5f7a2d6fa8510bd68ae/transition-1.0.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/f3997ce16a5c00ae84a772d300d0e1e8/viewpager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/f3997ce16a5c00ae84a772d300d0e1e8/viewpager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/331f61861c2d3a925f2252286afb1f53/loader-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/331f61861c2d3a925f2252286afb1f53/loader-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.navigation:navigation-runtime:2.1.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/25184bdd3b8b86ccb574529c2d71d374/navigation-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.navigation:navigation-runtime:2.1.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/25184bdd3b8b86ccb574529c2d71d374/navigation-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.activity:activity:1.0.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/daa47187fb0f0a7c419d1b10e1677cdd/activity-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.activity:activity:1.0.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/daa47187fb0f0a7c419d1b10e1677cdd/activity-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/beed28e19d4f55ab2c17aff66e0bc400/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/beed28e19d4f55ab2c17aff66e0bc400/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/e0d80e5c178a0db065288a448fc598ef/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/e0d80e5c178a0db065288a448fc598ef/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/04087833f388d5ffa97a080d757646c2/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/04087833f388d5ffa97a080d757646c2/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/eb11c4797d5d5b24d5dcbbebe26babf4/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/eb11c4797d5d5b24d5dcbbebe26babf4/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/740a70a0c89c8c085b6e012b4bd7790e/customview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/740a70a0c89c8c085b6e012b4bd7790e/customview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/31dc29ba3158cee4b1ca2bf2f6ff141b/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/31dc29ba3158cee4b1ca2bf2f6ff141b/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/435f1166e6a428a0025d9cd273cb35a2/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/435f1166e6a428a0025d9cd273cb35a2/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.navigation:navigation-common:2.1.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/dc8d52f8dfaa327f6112d600b705a5ab/navigation-common-2.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.navigation:navigation-common:2.1.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/dc8d52f8dfaa327f6112d600b705a5ab/navigation-common-2.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.core:core:1.1.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/c527b78844be871c44103f6f45a963fb/core-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.core:core:1.1.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/c527b78844be871c44103f6f45a963fb/core-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/aa91d8d2653c363bbd5da9d9892260d3/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/aa91d8d2653c363bbd5da9d9892260d3/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.cardview:cardview:1.0.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/ccc4f60e4549c263b614feec2a027fa2/cardview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.cardview:cardview:1.0.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/ccc4f60e4549c263b614feec2a027fa2/cardview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/c75b512c68f7bb7a7c5a931aae563be5/lifecycle-process-2.1.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/c75b512c68f7bb7a7c5a931aae563be5/lifecycle-process-2.1.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/f297fd1a37e8f1e094c72340601523f6/lifecycle-service-2.1.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/f297fd1a37e8f1e094c72340601523f6/lifecycle-service-2.1.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/0554424e228349ffc3db0700d1324aa1/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/0554424e228349ffc3db0700d1324aa1/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/35ea013adaf2265b5a814edcc0e48b35/lifecycle-livedata-2.1.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/35ea013adaf2265b5a814edcc0e48b35/lifecycle-livedata-2.1.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.1.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/77486900ea0f341dcb2eb60412232b54/lifecycle-livedata-core-2.1.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.1.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/77486900ea0f341dcb2eb60412232b54/lifecycle-livedata-core-2.1.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/384e1b5d703f7ead48bd253f34125353/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/384e1b5d703f7ead48bd253f34125353/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/7acef2a7bfef3795312317efec15d83e/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/7acef2a7bfef3795312317efec15d83e/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/bad233a64070d55cab9a83b26afbf154/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/bad233a64070d55cab9a83b26afbf154/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/c9c8616d74aa0ab3eb457d24b669c685/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/c9c8616d74aa0ab3eb457d24b669c685/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/d4ef17d609918d2a5f5a86d1ea02678f/interpolator-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/d4ef17d609918d2a5f5a86d1ea02678f/interpolator-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/9d52be8c254a228a91eaf05f51d52923/documentfile-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/9d52be8c254a228a91eaf05f51d52923/documentfile-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/9093771a98b01557e81860f4122d7892/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/9093771a98b01557e81860f4122d7892/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.print:print:1.0.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/7ec682ca46f5c90ea9a9e0cba0c0310a/print-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.print:print:1.0.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/7ec682ca46f5c90ea9a9e0cba0c0310a/print-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/8392647ca9531c13a8f0d6b7ad086e7e/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/8392647ca9531c13a8f0d6b7ad086e7e/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.volley:volley:1.1.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/87e0876cd83f4b7cdaf8d0dd2022bd32/volley-1.1.0/AndroidManifest.xml:7:5-43
-MERGED from [com.android.volley:volley:1.1.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/87e0876cd83f4b7cdaf8d0dd2022bd32/volley-1.1.0/AndroidManifest.xml:7:5-43
-INJECTED from /Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml
-INJECTED from /Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml
-	android:targetSdkVersion
-		INJECTED from /Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml
-		ADDED from /Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml
-	android:minSdkVersion
-		INJECTED from /Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml
-		ADDED from /Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml
-provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
-ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/c75b512c68f7bb7a7c5a931aae563be5/lifecycle-process-2.1.0/AndroidManifest.xml:23:9-27:43
-	android:authorities
-		ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/c75b512c68f7bb7a7c5a931aae563be5/lifecycle-process-2.1.0/AndroidManifest.xml:25:13-69
-	android:multiprocess
-		ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/c75b512c68f7bb7a7c5a931aae563be5/lifecycle-process-2.1.0/AndroidManifest.xml:27:13-40
+		ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:79:13-51
+activity#com.tencent.android.tpush.TpnsActivity
+ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:87:9-97:20
+MERGED from [com.tencent.tpns:tpns:1.2.6.0-release] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/318ff49b99f58602c8b768dc12baab4b/jetified-tpns-1.2.6.0-release/AndroidManifest.xml:33:9-55:20
+MERGED from [com.tencent.tpns:tpns:1.2.6.0-release] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/318ff49b99f58602c8b768dc12baab4b/jetified-tpns-1.2.6.0-release/AndroidManifest.xml:33:9-55:20
+	android:launchMode
+		ADDED from [com.tencent.tpns:tpns:1.2.6.0-release] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/318ff49b99f58602c8b768dc12baab4b/jetified-tpns-1.2.6.0-release/AndroidManifest.xml:35:13-48
+	android:theme
+		ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:88:13-72
+	android:name
+		ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:87:19-72
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:com.example.ezchat+data:scheme:tpns
+ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:89:13-96:29
+data
+ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:90:17-92:56
+	android:host
+		ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:92:21-54
+	android:scheme
+		ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:91:21-42
+action#android.intent.action.VIEW
+ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:93:17-69
+	android:name
+		ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:93:25-66
+category#android.intent.category.BROWSABLE
+ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:94:17-78
+	android:name
+		ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:94:27-75
+category#android.intent.category.DEFAULT
+ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:95:17-76
+	android:name
+		ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:95:27-73
+receiver#com.tencent.android.tpush.XGPushReceiver
+ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:100:9-117:20
+MERGED from [com.tencent.tpns:tpns:1.2.6.0-release] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/318ff49b99f58602c8b768dc12baab4b/jetified-tpns-1.2.6.0-release/AndroidManifest.xml:62:9-83:20
+MERGED from [com.tencent.tpns:tpns:1.2.6.0-release] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/318ff49b99f58602c8b768dc12baab4b/jetified-tpns-1.2.6.0-release/AndroidManifest.xml:62:9-83:20
+	android:process
+		ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:102:13-46
 	android:exported
-		ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/c75b512c68f7bb7a7c5a931aae563be5/lifecycle-process-2.1.0/AndroidManifest.xml:26:13-37
+		ADDED from [com.tencent.tpns:tpns:1.2.6.0-release] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/318ff49b99f58602c8b768dc12baab4b/jetified-tpns-1.2.6.0-release/AndroidManifest.xml:64:13-37
 	android:name
-		ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/c75b512c68f7bb7a7c5a931aae563be5/lifecycle-process-2.1.0/AndroidManifest.xml:24:13-79
+		ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:101:13-68
+intent-filter#action:name:android.bluetooth.adapter.action.STATE_CHANGED+action:name:android.intent.action.ACTION_POWER_CONNECTED+action:name:android.intent.action.ACTION_POWER_DISCONNECTED+action:name:android.intent.action.USER_PRESENT+action:name:android.net.conn.CONNECTIVITY_CHANGE+action:name:com.tencent.android.xg.vip.action.ACTION_SDK_KEEPALIVE+action:name:com.tencent.android.xg.vip.action.INTERNAL_PUSH_MESSAGE+action:name:com.tencent.android.xg.vip.action.SDK
+ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:103:13-116:29
+	android:priority
+		ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:103:28-57
+action#com.tencent.android.xg.vip.action.SDK
+ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:105:17-80
+	android:name
+		ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:105:25-77
+action#com.tencent.android.xg.vip.action.INTERNAL_PUSH_MESSAGE
+ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:106:17-98
+	android:name
+		ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:106:25-95
+action#com.tencent.android.xg.vip.action.ACTION_SDK_KEEPALIVE
+ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:107:17-97
+	android:name
+		ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:107:25-94
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:109:17-79
+	android:name
+		ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:109:25-76
+action#android.intent.action.USER_PRESENT
+ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:111:17-77
+	android:name
+		ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:111:25-74
+action#android.bluetooth.adapter.action.STATE_CHANGED
+ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:113:17-89
+	android:name
+		ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:113:25-86
+action#android.intent.action.ACTION_POWER_CONNECTED
+ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:114:17-87
+	android:name
+		ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:114:25-84
+action#android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:115:17-90
+	android:name
+		ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:115:25-87
+service#com.tencent.android.tpush.service.XGVipPushService
+ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:119:9-122:57
+MERGED from [com.tencent.tpns:tpns:1.2.6.0-release] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/318ff49b99f58602c8b768dc12baab4b/jetified-tpns-1.2.6.0-release/AndroidManifest.xml:85:9-89:49
+MERGED from [com.tencent.tpns:tpns:1.2.6.0-release] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/318ff49b99f58602c8b768dc12baab4b/jetified-tpns-1.2.6.0-release/AndroidManifest.xml:85:9-89:49
+	android:process
+		ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:122:13-46
+	android:exported
+		ADDED from [com.tencent.tpns:tpns:1.2.6.0-release] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/318ff49b99f58602c8b768dc12baab4b/jetified-tpns-1.2.6.0-release/AndroidManifest.xml:87:13-37
+	android:persistent
+		ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:121:13-38
+	android:name
+		ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:120:13-78
+service#com.tencent.android.tpush.rpc.XGRemoteService
+ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:124:9-130:19
+MERGED from [com.tencent.tpns:tpns:1.2.6.0-release] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/318ff49b99f58602c8b768dc12baab4b/jetified-tpns-1.2.6.0-release/AndroidManifest.xml:92:9-100:19
+MERGED from [com.tencent.tpns:tpns:1.2.6.0-release] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/318ff49b99f58602c8b768dc12baab4b/jetified-tpns-1.2.6.0-release/AndroidManifest.xml:92:9-100:19
+	android:exported
+		ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:125:13-37
+	android:name
+		ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:124:18-78
+intent-filter#action:name:com.example.ezchat.XGVIP_PUSH_ACTION
+ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:126:13-129:29
+action#com.example.ezchat.XGVIP_PUSH_ACTION
+ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:128:17-79
+	android:name
+		ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:128:25-76
+provider#com.tencent.android.tpush.XGPushProvider
+ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:132:9-134:72
+MERGED from [com.tencent.tpns:tpns:1.2.6.0-release] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/318ff49b99f58602c8b768dc12baab4b/jetified-tpns-1.2.6.0-release/AndroidManifest.xml:103:9-106:40
+MERGED from [com.tencent.tpns:tpns:1.2.6.0-release] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/318ff49b99f58602c8b768dc12baab4b/jetified-tpns-1.2.6.0-release/AndroidManifest.xml:103:9-106:40
+	android:authorities
+		ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:134:13-69
+	android:exported
+		ADDED from [com.tencent.tpns:tpns:1.2.6.0-release] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/318ff49b99f58602c8b768dc12baab4b/jetified-tpns-1.2.6.0-release/AndroidManifest.xml:106:13-37
+	android:name
+		ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:133:13-68
+provider#com.tencent.android.tpush.SettingsContentProvider
+ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:136:9-138:71
+MERGED from [com.tencent.tpns:tpns:1.2.6.0-release] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/318ff49b99f58602c8b768dc12baab4b/jetified-tpns-1.2.6.0-release/AndroidManifest.xml:109:9-112:40
+MERGED from [com.tencent.tpns:tpns:1.2.6.0-release] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/318ff49b99f58602c8b768dc12baab4b/jetified-tpns-1.2.6.0-release/AndroidManifest.xml:109:9-112:40
+	android:authorities
+		ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:138:13-68
+	android:exported
+		ADDED from [com.tencent.tpns:tpns:1.2.6.0-release] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/318ff49b99f58602c8b768dc12baab4b/jetified-tpns-1.2.6.0-release/AndroidManifest.xml:112:13-37
+	android:name
+		ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:137:13-77
+provider#com.tencent.android.tpush.XGVipPushKAProvider
+ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:140:9-143:39
+MERGED from [com.tencent.tpns:tpns:1.2.6.0-release] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/318ff49b99f58602c8b768dc12baab4b/jetified-tpns-1.2.6.0-release/AndroidManifest.xml:113:9-116:39
+MERGED from [com.tencent.tpns:tpns:1.2.6.0-release] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/318ff49b99f58602c8b768dc12baab4b/jetified-tpns-1.2.6.0-release/AndroidManifest.xml:113:9-116:39
+	android:authorities
+		ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:142:13-75
+	android:exported
+		ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:143:13-36
+	android:name
+		ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:141:13-73
+receiver#com.example.ezchat.MessageReceiver
+ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:146:9-153:20
+	android:name
+		ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:146:19-68
+intent-filter#action:name:com.tencent.android.xg.vip.action.FEEDBACK+action:name:com.tencent.android.xg.vip.action.PUSH_MESSAGE
+ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:147:13-152:29
+action#com.tencent.android.xg.vip.action.PUSH_MESSAGE
+ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:149:17-89
+	android:name
+		ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:149:25-86
+action#com.tencent.android.xg.vip.action.FEEDBACK
+ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:151:17-85
+	android:name
+		ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:151:25-82
+service#com.tencent.tpns.mqttchannel.services.MqttService
+ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:155:9-157:80
+MERGED from [com.tencent.tpns:tpns:1.2.6.0-release] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/318ff49b99f58602c8b768dc12baab4b/jetified-tpns-1.2.6.0-release/AndroidManifest.xml:119:9-122:49
+MERGED from [com.tencent.tpns:tpns:1.2.6.0-release] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/318ff49b99f58602c8b768dc12baab4b/jetified-tpns-1.2.6.0-release/AndroidManifest.xml:119:9-122:49
+	android:process
+		ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:156:13-46
+	android:exported
+		ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:155:18-42
+	android:name
+		ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:157:13-77
+provider#com.tencent.tpns.baseapi.base.SettingsContentProvider
+ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:158:9-161:77
+MERGED from [com.tencent.tpns:tpns:1.2.6.0-release] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/318ff49b99f58602c8b768dc12baab4b/jetified-tpns-1.2.6.0-release/AndroidManifest.xml:125:9-128:40
+MERGED from [com.tencent.tpns:tpns:1.2.6.0-release] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/318ff49b99f58602c8b768dc12baab4b/jetified-tpns-1.2.6.0-release/AndroidManifest.xml:125:9-128:40
+	android:authorities
+		ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:161:13-74
+	android:exported
+		ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:159:13-37
+	android:name
+		ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:160:13-81
+uses-sdk
+INJECTED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml
+INJECTED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml
+MERGED from [androidx.navigation:navigation-ui:2.3.5] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/9a720c89e66d9498eac95df7fdfd5b8e/navigation-ui-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.3.5] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/9a720c89e66d9498eac95df7fdfd5b8e/navigation-ui-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.4.0] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/f5987d57ea18336470b43ef56c53cf8d/material-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.4.0] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/f5987d57ea18336470b43ef56c53cf8d/material-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/bc9ed080db3f89ed2b4b72bdd583174e/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/bc9ed080db3f89ed2b4b72bdd583174e/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.3.0] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/b7ed15e6702d573cf7ea2497729095d5/appcompat-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.0] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/b7ed15e6702d573cf7ea2497729095d5/appcompat-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/1964611a1907e3ea07b40ce4c516c284/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/1964611a1907e3ea07b40ce4c516c284/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/e7f6f6d73de1836643c7170cea8cbaf8/lifecycle-extensions-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/e7f6f6d73de1836643c7170cea8cbaf8/lifecycle-extensions-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.3.5] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/5a9cc32938245da5b107fa1dceb406e9/navigation-fragment-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.3.5] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/5a9cc32938245da5b107fa1dceb406e9/navigation-fragment-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/4336eb59d7e582316997572d66343b15/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/4336eb59d7e582316997572d66343b15/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.4] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/02592219bedea5f2bc5d10fbdb8b5162/fragment-1.3.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.4] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/02592219bedea5f2bc5d10fbdb8b5162/fragment-1.3.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.3.5] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/eb5ad8b404e64a0d852d0946005f6a05/navigation-runtime-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.3.5] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/eb5ad8b404e64a0d852d0946005f6a05/navigation-runtime-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.3] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/06aaca427d46a146f0668094816e1246/activity-1.2.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.3] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/06aaca427d46a146f0668094816e1246/activity-1.2.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/fab6d1e2358d56ff86650f1cf642aee0/appcompat-resources-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/fab6d1e2358d56ff86650f1cf642aee0/appcompat-resources-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/abc680e55824c418c024460e31034ed4/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/abc680e55824c418c024460e31034ed4/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/b0149f4c947c05b760f5cf06ab6d8060/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/b0149f4c947c05b760f5cf06ab6d8060/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/dea41516f6dbaeb92a1473ba5bf5e1c3/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/dea41516f6dbaeb92a1473ba5bf5e1c3/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/beed28e19d4f55ab2c17aff66e0bc400/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/beed28e19d4f55ab2c17aff66e0bc400/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/e0d80e5c178a0db065288a448fc598ef/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/e0d80e5c178a0db065288a448fc598ef/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.0] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/a6ce3afbff3f1ae3fa1fe13048b173d9/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/a6ce3afbff3f1ae3fa1fe13048b173d9/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/ba2af06f417607d7ef1ca9f201a0d139/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/ba2af06f417607d7ef1ca9f201a0d139/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/fba97084901938e53e456a9eb6994de3/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/fba97084901938e53e456a9eb6994de3/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.3.0] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/377eb583079078e105250a9b6561e8a8/transition-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.3.0] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/377eb583079078e105250a9b6561e8a8/transition-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/f3997ce16a5c00ae84a772d300d0e1e8/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/f3997ce16a5c00ae84a772d300d0e1e8/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/2bf200c3ed6f794fd90e7a7e5e0ea6de/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/2bf200c3ed6f794fd90e7a7e5e0ea6de/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/eb11c4797d5d5b24d5dcbbebe26babf4/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/eb11c4797d5d5b24d5dcbbebe26babf4/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/9b497a05dc550ca34bbce4514998cebb/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/9b497a05dc550ca34bbce4514998cebb/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/331f61861c2d3a925f2252286afb1f53/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/331f61861c2d3a925f2252286afb1f53/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/31dc29ba3158cee4b1ca2bf2f6ff141b/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/31dc29ba3158cee4b1ca2bf2f6ff141b/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/435f1166e6a428a0025d9cd273cb35a2/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/435f1166e6a428a0025d9cd273cb35a2/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.3.5] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/32ae8c7335d86f5a5fc0e9ac1aecd5e1/navigation-common-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.3.5] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/32ae8c7335d86f5a5fc0e9ac1aecd5e1/navigation-common-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/062235506723b4139567f7f9df5c99ab/core-1.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/062235506723b4139567f7f9df5c99ab/core-1.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/aa91d8d2653c363bbd5da9d9892260d3/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/aa91d8d2653c363bbd5da9d9892260d3/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/c0852d862633413004b1fcadfc81f923/lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/c0852d862633413004b1fcadfc81f923/lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/93054aef6f9f3d414bf0a40f9ab5c975/savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/93054aef6f9f3d414bf0a40f9ab5c975/savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/1b8bf5e23e9a70b030eaeb641b1409a0/lifecycle-process-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/1b8bf5e23e9a70b030eaeb641b1409a0/lifecycle-process-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/81be015ee16d7afb6bf291abe682c377/lifecycle-service-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/81be015ee16d7afb6bf291abe682c377/lifecycle-service-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/f5cdb4c67dccaecd6edd7e282d4f6cf8/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/f5cdb4c67dccaecd6edd7e282d4f6cf8/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/541233d6b68a527cc1d06543fac03351/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/541233d6b68a527cc1d06543fac03351/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/ccc4f60e4549c263b614feec2a027fa2/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/ccc4f60e4549c263b614feec2a027fa2/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/a122ffd4c0fe608c1613ec63d113b06d/lifecycle-livedata-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/a122ffd4c0fe608c1613ec63d113b06d/lifecycle-livedata-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/da76052db9fdf345c63cec4b9f04eec9/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/da76052db9fdf345c63cec4b9f04eec9/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/384e1b5d703f7ead48bd253f34125353/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/384e1b5d703f7ead48bd253f34125353/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/b13ba3a76592f7815a0d0b680c74779e/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/b13ba3a76592f7815a0d0b680c74779e/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/4c85a92a61b292345ab8f6bbc9c7d9ed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/4c85a92a61b292345ab8f6bbc9c7d9ed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/9d52be8c254a228a91eaf05f51d52923/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/9d52be8c254a228a91eaf05f51d52923/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/9093771a98b01557e81860f4122d7892/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/9093771a98b01557e81860f4122d7892/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/7ec682ca46f5c90ea9a9e0cba0c0310a/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/7ec682ca46f5c90ea9a9e0cba0c0310a/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/d4ef17d609918d2a5f5a86d1ea02678f/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/d4ef17d609918d2a5f5a86d1ea02678f/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.volley:volley:1.2.0] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/3a0373a1b6c7ac9313f377d628b3a598/volley-1.2.0/AndroidManifest.xml:5:5-43
+MERGED from [com.android.volley:volley:1.2.0] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/3a0373a1b6c7ac9313f377d628b3a598/volley-1.2.0/AndroidManifest.xml:5:5-43
+MERGED from [com.tencent.tpns:tpns:1.2.6.0-release] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/318ff49b99f58602c8b768dc12baab4b/jetified-tpns-1.2.6.0-release/AndroidManifest.xml:7:5-9:41
+MERGED from [com.tencent.tpns:tpns:1.2.6.0-release] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/318ff49b99f58602c8b768dc12baab4b/jetified-tpns-1.2.6.0-release/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/67d7c60129a9403f7d5352137cc4ccea/annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/67d7c60129a9403f7d5352137cc4ccea/annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml
+INJECTED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml
+		ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml
+		ADDED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/1b8bf5e23e9a70b030eaeb641b1409a0/lifecycle-process-2.2.0/AndroidManifest.xml:25:9-29:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/1b8bf5e23e9a70b030eaeb641b1409a0/lifecycle-process-2.2.0/AndroidManifest.xml:27:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/1b8bf5e23e9a70b030eaeb641b1409a0/lifecycle-process-2.2.0/AndroidManifest.xml:29:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/1b8bf5e23e9a70b030eaeb641b1409a0/lifecycle-process-2.2.0/AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/1b8bf5e23e9a70b030eaeb641b1409a0/lifecycle-process-2.2.0/AndroidManifest.xml:26:13-79
+uses-permission#android.permission.RESTART_PACKAGES
+ADDED from [com.tencent.tpns:tpns:1.2.6.0-release] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/318ff49b99f58602c8b768dc12baab4b/jetified-tpns-1.2.6.0-release/AndroidManifest.xml:23:5-75
+	android:name
+		ADDED from [com.tencent.tpns:tpns:1.2.6.0-release] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/318ff49b99f58602c8b768dc12baab4b/jetified-tpns-1.2.6.0-release/AndroidManifest.xml:23:22-72
+permission#${applicationId}.permission.XGPUSH_RECEIVE
+MERGED from [com.tencent.tpns:tpns:1.2.6.0-release] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/318ff49b99f58602c8b768dc12baab4b/jetified-tpns-1.2.6.0-release/AndroidManifest.xml:26:5-28:47
+uses-permission#${applicationId}.permission.XGPUSH_RECEIVE
+MERGED from [com.tencent.tpns:tpns:1.2.6.0-release] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/318ff49b99f58602c8b768dc12baab4b/jetified-tpns-1.2.6.0-release/AndroidManifest.xml:30:5-82
+intent-filter#action:name:${applicationId}.OPEN_TPNS_ACTIVITY+category:name:android.intent.category.DEFAULT
+ADDED from [com.tencent.tpns:tpns:1.2.6.0-release] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/318ff49b99f58602c8b768dc12baab4b/jetified-tpns-1.2.6.0-release/AndroidManifest.xml:37:13-41:29
+intent-filter#action:name:com.example.ezchat.OPEN_TPNS_ACTIVITY+category:name:android.intent.category.DEFAULT
+ADDED from [com.tencent.tpns:tpns:1.2.6.0-release] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/318ff49b99f58602c8b768dc12baab4b/jetified-tpns-1.2.6.0-release/AndroidManifest.xml:37:13-41:29
+action#${applicationId}.OPEN_TPNS_ACTIVITY
+ADDED from [com.tencent.tpns:tpns:1.2.6.0-release] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/318ff49b99f58602c8b768dc12baab4b/jetified-tpns-1.2.6.0-release/AndroidManifest.xml:38:17-78
+	android:name
+		ADDED from [com.tencent.tpns:tpns:1.2.6.0-release] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/318ff49b99f58602c8b768dc12baab4b/jetified-tpns-1.2.6.0-release/AndroidManifest.xml:38:25-75
+action#com.example.ezchat.OPEN_TPNS_ACTIVITY
+ADDED from [com.tencent.tpns:tpns:1.2.6.0-release] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/318ff49b99f58602c8b768dc12baab4b/jetified-tpns-1.2.6.0-release/AndroidManifest.xml:38:17-78
+	android:name
+		ADDED from [com.tencent.tpns:tpns:1.2.6.0-release] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/318ff49b99f58602c8b768dc12baab4b/jetified-tpns-1.2.6.0-release/AndroidManifest.xml:38:25-75
+intent-filter#action:name:android.intent.action
+ADDED from [com.tencent.tpns:tpns:1.2.6.0-release] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/318ff49b99f58602c8b768dc12baab4b/jetified-tpns-1.2.6.0-release/AndroidManifest.xml:52:13-54:29
+action#android.intent.action
+ADDED from [com.tencent.tpns:tpns:1.2.6.0-release] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/318ff49b99f58602c8b768dc12baab4b/jetified-tpns-1.2.6.0-release/AndroidManifest.xml:53:17-64
+	android:name
+		ADDED from [com.tencent.tpns:tpns:1.2.6.0-release] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/318ff49b99f58602c8b768dc12baab4b/jetified-tpns-1.2.6.0-release/AndroidManifest.xml:53:25-61
+activity#com.tencent.android.tpush.inappmessage.InAppMessageActivity
+ADDED from [com.tencent.tpns:tpns:1.2.6.0-release] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/318ff49b99f58602c8b768dc12baab4b/jetified-tpns-1.2.6.0-release/AndroidManifest.xml:56:9-59:20
+	android:theme
+		ADDED from [com.tencent.tpns:tpns:1.2.6.0-release] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/318ff49b99f58602c8b768dc12baab4b/jetified-tpns-1.2.6.0-release/AndroidManifest.xml:58:13-72
+	android:name
+		ADDED from [com.tencent.tpns:tpns:1.2.6.0-release] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/318ff49b99f58602c8b768dc12baab4b/jetified-tpns-1.2.6.0-release/AndroidManifest.xml:57:13-87
+meta-data#XG_V2_ACCESS_ID
+ADDED from [com.tencent.tpns:tpns:1.2.6.0-release] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/318ff49b99f58602c8b768dc12baab4b/jetified-tpns-1.2.6.0-release/AndroidManifest.xml:134:9-136:47
+	android:value
+		ADDED from [com.tencent.tpns:tpns:1.2.6.0-release] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/318ff49b99f58602c8b768dc12baab4b/jetified-tpns-1.2.6.0-release/AndroidManifest.xml:136:13-44
+	android:name
+		ADDED from [com.tencent.tpns:tpns:1.2.6.0-release] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/318ff49b99f58602c8b768dc12baab4b/jetified-tpns-1.2.6.0-release/AndroidManifest.xml:135:13-43
+meta-data#XG_V2_ACCESS_KEY
+ADDED from [com.tencent.tpns:tpns:1.2.6.0-release] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/318ff49b99f58602c8b768dc12baab4b/jetified-tpns-1.2.6.0-release/AndroidManifest.xml:138:9-140:48
+	android:value
+		ADDED from [com.tencent.tpns:tpns:1.2.6.0-release] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/318ff49b99f58602c8b768dc12baab4b/jetified-tpns-1.2.6.0-release/AndroidManifest.xml:140:13-45
+	android:name
+		ADDED from [com.tencent.tpns:tpns:1.2.6.0-release] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/318ff49b99f58602c8b768dc12baab4b/jetified-tpns-1.2.6.0-release/AndroidManifest.xml:139:13-44

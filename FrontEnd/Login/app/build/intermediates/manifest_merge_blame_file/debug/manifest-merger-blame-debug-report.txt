@@ -6,181 +6,426 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="24"
-8-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml
-9        android:targetSdkVersion="29" />
-9-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml
+8-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml
 10
-11    <uses-permission android:name="android.permission.INTERNET" />
-11-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:5:5-67
-11-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:5:22-64
-12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-12-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:6:5-79
-12-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:6:22-76
-13    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-13-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:7:5-81
-13-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:7:22-78
-14    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-14-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:8:5-80
-14-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:8:22-77
-15    <uses-permission android:name="android.permission.WRITE_INTERNAL_STORAGE" />
-15-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:9:5-81
-15-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:9:22-78
-16    <uses-permission android:name="android.permission.READ_INTERNAL_STORAGE" />
-16-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:10:5-80
-16-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:10:22-77
-17    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-17-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:8:5-80
-17-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:8:22-77
-18    <uses-permission android:name="android.permission.CAMERA" />
-18-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:12:5-65
-18-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:12:22-62
-19
-20    <uses-feature android:name="android.hardware.camera" />
-20-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:14:5-60
-20-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:14:19-57
-21
-22    <uses-permission android:name="android.hardware.camera.autofocus" />
-22-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:16:5-73
-22-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:16:22-70
-23    <uses-permission android:name="android.permission.FLASHLIGHT" />
-23-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:17:5-69
-23-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:17:22-66
-24
-25    <application
-25-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:19:5-69:19
-26        android:name="app.AppController"
-26-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:20:9-41
-27        android:allowBackup="true"
-27-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:21:9-35
-28        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-28-->[androidx.core:core:1.1.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/c527b78844be871c44103f6f45a963fb/core-1.1.0/AndroidManifest.xml:24:18-86
-29        android:debuggable="true"
-30        android:icon="@mipmap/ic_launcher"
-30-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:22:9-43
-31        android:label="@string/app_name"
-31-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:23:9-41
-32        android:networkSecurityConfig="@xml/network_security_config"
-32-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:24:9-69
-33        android:roundIcon="@mipmap/ic_launcher_round"
-33-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:25:9-54
-34        android:supportsRtl="true"
-34-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:26:9-35
-35        android:testOnly="true"
-36        android:theme="@style/AppTheme" >
-36-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:27:9-40
-37        <uses-library
-37-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:28:9-88
-38            android:name="org.apache.http.legacy"
-38-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:28:23-60
-39            android:required="false" />
-39-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:28:61-85
+11    <permission
+11-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:5:5-7:47
+12        android:name="com.example.ezchat.permission.XGPUSH_RECEIVE"
+12-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:6:9-68
+13        android:protectionLevel="signature" />
+13-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:7:9-44
+14
+15    <uses-permission android:name="com.example.ezchat.permission.XGPUSH_RECEIVE" />
+15-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:8:5-84
+15-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:8:22-81
+16    <!-- 【必须】 移动推送 TPNS SDK 所需权限 -->
+17    <uses-permission android:name="android.permission.INTERNET" />
+17-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:10:5-67
+17-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:10:22-64
+18    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+18-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:11:5-76
+18-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:11:22-73
+19    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+19-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:12:5-79
+19-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:12:22-76
+20    <!-- 【常用】 移动推送 TPNS SDK所需权限 -->
+21    <uses-permission android:name="android.permission.WAKE_LOCK" />
+21-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:14:5-68
+21-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:14:22-65
+22    <uses-permission android:name="android.permission.VIBRATE" />
+22-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:15:5-66
+22-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:15:22-63
+23    <uses-permission android:name="android.permission.RECEIVE_USER_PRESENT" />
+23-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:16:5-79
+23-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:16:22-76
+24    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+24-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:17:5-75
+24-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:17:22-72
+25    <uses-permission android:name="android.permission.GET_TASKS" />
+25-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:18:5-68
+25-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:18:22-65
+26    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+26-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:20:5-81
+26-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:20:22-78
+27    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+27-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:21:5-80
+27-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:21:22-77
+28    <uses-permission android:name="android.permission.WRITE_INTERNAL_STORAGE" />
+28-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:22:5-81
+28-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:22:22-78
+29    <uses-permission android:name="android.permission.READ_INTERNAL_STORAGE" />
+29-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:23:5-80
+29-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:23:22-77
+30    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+30-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:21:5-80
+30-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:21:22-77
+31    <uses-permission android:name="android.permission.CAMERA" />
+31-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:25:5-65
+31-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:25:22-62
+32
+33    <uses-feature android:name="android.hardware.camera" />
+33-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:28:5-60
+33-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:28:19-57
+34
+35    <uses-permission android:name="android.hardware.camera.autofocus" />
+35-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:30:5-73
+35-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:30:22-70
+36    <uses-permission android:name="android.permission.FLASHLIGHT" />
+36-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:31:5-69
+36-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:31:22-66
+37
+38    <!-- 【可选】 信鸽SDK所需权限 -->
+39    <uses-permission android:name="android.permission.RESTART_PACKAGES" />
+39-->[com.tencent.tpns:tpns:1.2.6.0-release] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/318ff49b99f58602c8b768dc12baab4b/jetified-tpns-1.2.6.0-release/AndroidManifest.xml:23:5-75
+39-->[com.tencent.tpns:tpns:1.2.6.0-release] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/318ff49b99f58602c8b768dc12baab4b/jetified-tpns-1.2.6.0-release/AndroidManifest.xml:23:22-72
 40
-41        <activity android:name="com.example.ezchat.ui.activity.NewPostActivity" />
-41-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:29:9-74
-41-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:29:19-62
-42        <activity android:name="com.example.ezchat.ui.activity.PhotoActivity" />
-42-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:30:9-72
-42-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:30:19-60
-43        <activity
-43-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:31:9-37:20
-44            android:name="com.example.ezchat.ui.activity.LaunchActivity"
-44-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:31:19-61
-45            android:theme="@style/AppSplash" >
-45-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:32:13-45
-46            <intent-filter>
-46-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:33:13-36:29
-47                <action android:name="android.intent.action.MAIN" />
-47-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:34:17-69
-47-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:34:25-66
-48
-49                <category android:name="android.intent.category.LAUNCHER" />
-49-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:35:17-77
-49-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:35:27-74
-50            </intent-filter>
-51        </activity>
-52
+41    <application
+41-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:33:5-165:19
+42        android:name="app.AppController"
+42-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:34:9-41
+43        android:allowBackup="true"
+43-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:35:9-35
+44        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+44-->[androidx.core:core:1.5.0] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/062235506723b4139567f7f9df5c99ab/core-1.5.0/AndroidManifest.xml:24:18-86
+45        android:debuggable="true"
+46        android:icon="@mipmap/ic_launcher"
+46-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:36:9-43
+47        android:label="@string/app_name"
+47-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:37:9-41
+48        android:networkSecurityConfig="@xml/network_security_config"
+48-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:38:9-69
+49        android:roundIcon="@mipmap/ic_launcher_round"
+49-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:39:9-54
+50        android:supportsRtl="true"
+50-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:40:9-35
+51        android:testOnly="true"
+52        android:theme="@style/AppTheme" >
+52-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:41:9-40
 53        <uses-library
-53-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:28:9-88
+53-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:42:9-88
 54            android:name="org.apache.http.legacy"
-54-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:28:23-60
+54-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:42:23-60
 55            android:required="false" />
-55-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:28:61-85
+55-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:42:61-85
 56
-57        <activity
-57-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:41:9-44:67
-58            android:name="com.example.ezchat.ui.activity.GroupChatActivity"
-58-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:42:13-58
-59            android:label="Group Chat"
-59-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:43:13-39
-60            android:windowSoftInputMode="adjustPan|stateHidden" />
-60-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:44:13-64
-61        <activity
-61-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:45:9-47:39
-62            android:name="com.example.ezchat.ui.activity.MomentsActivity"
-62-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:46:13-56
-63            android:label="Moments" />
-63-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:47:13-36
-64        <activity android:name="com.example.ezchat.ui.activity.AcceptRequestActivity" />
-64-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:48:9-71
-64-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:48:19-68
-65        <activity android:name="com.example.ezchat.ui.activity.SearchNewFriendsActivity" />
-65-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:49:9-74
-65-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:49:19-71
-66        <activity android:name="com.example.ezchat.ui.activity.FriendsProfileActivity" />
-66-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:50:9-72
-66-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:50:19-69
-67        <activity android:name="com.example.ezchat.ui.activity.FriendSearchActivity" />
-67-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:51:9-70
-67-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:51:19-67
-68        <activity android:name="com.example.ezchat.ui.activity.SuccessSignUp" />
-68-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:52:9-63
-68-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:52:19-60
-69
-70        <meta-data
-70-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:54:9-56:63
-71            android:name="com.google.android.actions"
-71-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:55:13-54
-72            android:resource="@xml/network_security_config" />
-72-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:56:13-60
-73
-74        <activity
-74-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:57:9-59:48
-75            android:name="com.example.ezchat.ui.activity.ChatActivity"
-75-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:58:13-53
-76            android:label="Chat with Friend" />
-76-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:59:13-45
-77        <activity android:name="com.example.ezchat.ui.activity.UserActivity" />
-77-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:60:9-62
-77-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:60:19-59
-78        <activity android:name="com.example.ezchat.ui.activity.Pub_MainPage" />
-78-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:61:9-62
-78-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:61:19-59
-79        <activity android:name="com.example.ezchat.ui.activity.RegisterActivity" />
-79-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:62:9-66
-79-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:62:19-63
-80        <activity android:name="com.example.ezchat.ui.activity.Admin_MainPage" />
-80-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:63:9-64
-80-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:63:19-61
-81        <activity
-81-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:64:9-68:20
-82            android:name="com.example.ezchat.ui.login.LoginActivity"
-82-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:65:13-51
-83            android:label="@string/app_name"
-83-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:66:13-45
-84            android:theme="@style/NoTitle" >
-84-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/EZChat/FrontEnd/Login/app/src/main/AndroidManifest.xml:67:13-43
-85        </activity>
-86
-87        <provider
-87-->[androidx.lifecycle:lifecycle-process:2.1.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/c75b512c68f7bb7a7c5a931aae563be5/lifecycle-process-2.1.0/AndroidManifest.xml:23:9-27:43
-88            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
-88-->[androidx.lifecycle:lifecycle-process:2.1.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/c75b512c68f7bb7a7c5a931aae563be5/lifecycle-process-2.1.0/AndroidManifest.xml:24:13-79
-89            android:authorities="com.example.ezchat.lifecycle-process"
-89-->[androidx.lifecycle:lifecycle-process:2.1.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/c75b512c68f7bb7a7c5a931aae563be5/lifecycle-process-2.1.0/AndroidManifest.xml:25:13-69
-90            android:exported="false"
-90-->[androidx.lifecycle:lifecycle-process:2.1.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/c75b512c68f7bb7a7c5a931aae563be5/lifecycle-process-2.1.0/AndroidManifest.xml:26:13-37
-91            android:multiprocess="true" />
-91-->[androidx.lifecycle:lifecycle-process:2.1.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/c75b512c68f7bb7a7c5a931aae563be5/lifecycle-process-2.1.0/AndroidManifest.xml:27:13-40
-92    </application>
-93
-94</manifest>
+57        <activity android:name="com.example.ezchat.ui.activity.NewPostActivity" />
+57-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:43:9-74
+57-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:43:19-62
+58        <activity android:name="com.example.ezchat.ui.activity.PhotoActivity" />
+58-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:44:9-72
+58-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:44:19-60
+59        <activity
+59-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:45:9-51:20
+60            android:name="com.example.ezchat.ui.activity.LaunchActivity"
+60-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:45:19-61
+61            android:theme="@style/AppSplash" >
+61-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:46:13-45
+62            <intent-filter>
+62-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:47:13-50:29
+63                <action android:name="android.intent.action.MAIN" />
+63-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:48:17-69
+63-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:48:25-66
+64
+65                <category android:name="android.intent.category.LAUNCHER" />
+65-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:49:17-77
+65-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:49:27-74
+66            </intent-filter>
+67        </activity>
+68
+69        <uses-library
+69-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:42:9-88
+70            android:name="org.apache.http.legacy"
+70-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:42:23-60
+71            android:required="false" />
+71-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:42:61-85
+72
+73        <activity
+73-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:55:9-58:67
+74            android:name="com.example.ezchat.ui.activity.GroupChatActivity"
+74-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:56:13-58
+75            android:label="Group Chat"
+75-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:57:13-39
+76            android:windowSoftInputMode="adjustPan|stateHidden" />
+76-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:58:13-64
+77        <activity
+77-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:59:9-61:39
+78            android:name="com.example.ezchat.ui.activity.MomentsActivity"
+78-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:60:13-56
+79            android:label="Moments" />
+79-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:61:13-36
+80        <activity android:name="com.example.ezchat.ui.activity.AcceptRequestActivity" />
+80-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:62:9-71
+80-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:62:19-68
+81        <activity android:name="com.example.ezchat.ui.activity.SearchNewFriendsActivity" />
+81-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:63:9-74
+81-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:63:19-71
+82        <activity android:name="com.example.ezchat.ui.activity.FriendsProfileActivity" />
+82-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:64:9-72
+82-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:64:19-69
+83        <activity android:name="com.example.ezchat.ui.activity.FriendSearchActivity" />
+83-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:65:9-70
+83-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:65:19-67
+84        <activity android:name="com.example.ezchat.ui.activity.SuccessSignUp" />
+84-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:66:9-63
+84-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:66:19-60
+85
+86        <meta-data
+86-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:68:9-70:63
+87            android:name="com.google.android.actions"
+87-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:69:13-54
+88            android:resource="@xml/network_security_config" />
+88-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:70:13-60
+89
+90        <activity
+90-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:71:9-73:48
+91            android:name="com.example.ezchat.ui.activity.ChatActivity"
+91-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:72:13-53
+92            android:label="Chat with Friend" />
+92-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:73:13-45
+93        <activity android:name="com.example.ezchat.ui.activity.UserActivity" />
+93-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:74:9-62
+93-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:74:19-59
+94        <activity android:name="com.example.ezchat.ui.activity.Pub_MainPage" />
+94-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:75:9-62
+94-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:75:19-59
+95        <activity android:name="com.example.ezchat.ui.activity.RegisterActivity" />
+95-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:76:9-66
+95-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:76:19-63
+96        <activity android:name="com.example.ezchat.ui.activity.Admin_MainPage" />
+96-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:77:9-64
+96-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:77:19-61
+97        <activity
+97-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:78:9-82:20
+98            android:name="com.example.ezchat.ui.login.LoginActivity"
+98-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:79:13-51
+99            android:label="@string/app_name"
+99-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:80:13-45
+100            android:theme="@style/NoTitle" >
+100-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:81:13-43
+101        </activity>
+102
+103        <!-- 应用的其它配置 -->
+104        <uses-library
+104-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:42:9-88
+105            android:name="org.apache.http.legacy"
+105-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:42:23-60
+106            android:required="false" />
+106-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:42:61-85
+107        <!-- 【必须】 移动推送 TPNS 默认通知 -->
+108        <activity
+108-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:87:9-97:20
+109            android:name="com.tencent.android.tpush.TpnsActivity"
+109-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:87:19-72
+110            android:launchMode="singleInstance"
+110-->[com.tencent.tpns:tpns:1.2.6.0-release] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/318ff49b99f58602c8b768dc12baab4b/jetified-tpns-1.2.6.0-release/AndroidManifest.xml:35:13-48
+111            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+111-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:88:13-72
+112            <intent-filter>
+112-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:89:13-96:29
+113                <data
+113-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:90:17-92:56
+114                    android:host="com.example.ezchat"
+114-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:92:21-54
+115                    android:scheme="tpns" />
+115-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:91:21-42
+116
+117                <action android:name="android.intent.action.VIEW" />
+117-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:93:17-69
+117-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:93:25-66
+118
+119                <category android:name="android.intent.category.BROWSABLE" />
+119-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:94:17-78
+119-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:94:27-75
+120                <category android:name="android.intent.category.DEFAULT" />
+120-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:95:17-76
+120-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:95:27-73
+121            </intent-filter>
+122            <intent-filter>
+122-->[com.tencent.tpns:tpns:1.2.6.0-release] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/318ff49b99f58602c8b768dc12baab4b/jetified-tpns-1.2.6.0-release/AndroidManifest.xml:37:13-41:29
+123                <action android:name="com.example.ezchat.OPEN_TPNS_ACTIVITY" />
+123-->[com.tencent.tpns:tpns:1.2.6.0-release] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/318ff49b99f58602c8b768dc12baab4b/jetified-tpns-1.2.6.0-release/AndroidManifest.xml:38:17-78
+123-->[com.tencent.tpns:tpns:1.2.6.0-release] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/318ff49b99f58602c8b768dc12baab4b/jetified-tpns-1.2.6.0-release/AndroidManifest.xml:38:25-75
+124
+125                <category android:name="android.intent.category.DEFAULT" />
+125-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:95:17-76
+125-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:95:27-73
+126            </intent-filter>
+127            <intent-filter>
+127-->[com.tencent.tpns:tpns:1.2.6.0-release] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/318ff49b99f58602c8b768dc12baab4b/jetified-tpns-1.2.6.0-release/AndroidManifest.xml:52:13-54:29
+128                <action android:name="android.intent.action" />
+128-->[com.tencent.tpns:tpns:1.2.6.0-release] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/318ff49b99f58602c8b768dc12baab4b/jetified-tpns-1.2.6.0-release/AndroidManifest.xml:53:17-64
+128-->[com.tencent.tpns:tpns:1.2.6.0-release] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/318ff49b99f58602c8b768dc12baab4b/jetified-tpns-1.2.6.0-release/AndroidManifest.xml:53:25-61
+129            </intent-filter>
+130        </activity>
+131
+132        <!-- 【必须】 移动推送 TPNS receiver广播接收 -->
+133        <receiver
+133-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:100:9-117:20
+134            android:name="com.tencent.android.tpush.XGPushReceiver"
+134-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:101:13-68
+135            android:exported="false"
+135-->[com.tencent.tpns:tpns:1.2.6.0-release] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/318ff49b99f58602c8b768dc12baab4b/jetified-tpns-1.2.6.0-release/AndroidManifest.xml:64:13-37
+136            android:process=":xg_vip_service" >
+136-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:102:13-46
+137            <intent-filter android:priority="0x7fffffff" >
+137-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:103:13-116:29
+137-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:103:28-57
+138
+139                <!-- 【必须】 移动推送 TPNS SDK的内部广播 -->
+140                <action android:name="com.tencent.android.xg.vip.action.SDK" />
+140-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:105:17-80
+140-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:105:25-77
+141                <action android:name="com.tencent.android.xg.vip.action.INTERNAL_PUSH_MESSAGE" />
+141-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:106:17-98
+141-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:106:25-95
+142                <action android:name="com.tencent.android.xg.vip.action.ACTION_SDK_KEEPALIVE" />
+142-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:107:17-97
+142-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:107:25-94
+143                <!-- 【可选】 系统广播：网络切换 -->
+144                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+144-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:109:17-79
+144-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:109:25-76
+145                <!-- 【可选】 系统广播：开屏 -->
+146                <action android:name="android.intent.action.USER_PRESENT" />
+146-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:111:17-77
+146-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:111:25-74
+147                <!-- 【可选】 一些常用的系统广播，增强移动推送 TPNS service的复活机会，请根据需要选择。当然，您也可以添加App自定义的一些广播让启动service -->
+148                <action android:name="android.bluetooth.adapter.action.STATE_CHANGED" />
+148-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:113:17-89
+148-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:113:25-86
+149                <action android:name="android.intent.action.ACTION_POWER_CONNECTED" />
+149-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:114:17-87
+149-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:114:25-84
+150                <action android:name="android.intent.action.ACTION_POWER_DISCONNECTED" />
+150-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:115:17-90
+150-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:115:25-87
+151            </intent-filter>
+152        </receiver>
+153        <!-- 【必须】移动推送 TPNS service -->
+154        <service
+154-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:119:9-122:57
+155            android:name="com.tencent.android.tpush.service.XGVipPushService"
+155-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:120:13-78
+156            android:exported="false"
+156-->[com.tencent.tpns:tpns:1.2.6.0-release] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/318ff49b99f58602c8b768dc12baab4b/jetified-tpns-1.2.6.0-release/AndroidManifest.xml:87:13-37
+157            android:persistent="true"
+157-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:121:13-38
+158            android:process=":xg_vip_service" />
+158-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:122:13-46
+159        <!-- 【必须】通知 service ，android:name 部分改为包名.XGVIP_PUSH_ACTION -->
+160        <service
+160-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:124:9-130:19
+161            android:name="com.tencent.android.tpush.rpc.XGRemoteService"
+161-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:124:18-78
+162            android:exported="false" >
+162-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:125:13-37
+163            <intent-filter>
+163-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:126:13-129:29
+164
+165                <!-- 【必须】请修改为当前APP名包.XGVIP_PUSH_ACTION -->
+166                <action android:name="com.example.ezchat.XGVIP_PUSH_ACTION" />
+166-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:128:17-79
+166-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:128:25-76
+167            </intent-filter>
+168        </service>
+169        <!-- 【必须】【注意】authorities 修改为包名.XGVIP_PUSH_AUTH -->
+170        <provider
+170-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:132:9-134:72
+171            android:name="com.tencent.android.tpush.XGPushProvider"
+171-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:133:13-68
+172            android:authorities="com.example.ezchat.XGVIP_PUSH_AUTH"
+172-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:134:13-69
+173            android:exported="false" />
+173-->[com.tencent.tpns:tpns:1.2.6.0-release] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/318ff49b99f58602c8b768dc12baab4b/jetified-tpns-1.2.6.0-release/AndroidManifest.xml:106:13-37
+174        <!-- 【必须】【注意】authorities 修改为包名.TPUSH_PROVIDER -->
+175        <provider
+175-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:136:9-138:71
+176            android:name="com.tencent.android.tpush.SettingsContentProvider"
+176-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:137:13-77
+177            android:authorities="com.example.ezchat.TPUSH_PROVIDER"
+177-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:138:13-68
+178            android:exported="false" />
+178-->[com.tencent.tpns:tpns:1.2.6.0-release] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/318ff49b99f58602c8b768dc12baab4b/jetified-tpns-1.2.6.0-release/AndroidManifest.xml:112:13-37
+179        <!-- 【可选】用于增强保活能力 -->
+180        <provider
+180-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:140:9-143:39
+181            android:name="com.tencent.android.tpush.XGVipPushKAProvider"
+181-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:141:13-73
+182            android:authorities="com.example.ezchat.AUTH_XGPUSH_KEEPALIVE"
+182-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:142:13-75
+183            android:exported="true" />
+183-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:143:13-36
+184        <!-- 【可选】APP实现的Receiver，用于接收消息透传和操作结果的回调，请根据需要添加 -->
+185        <!-- YOUR_PACKAGE_PATH.CustomPushReceiver需要改为自己的Receiver： -->
+186        <receiver android:name="com.example.ezchat.MessageReceiver" >
+186-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:146:9-153:20
+186-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:146:19-68
+187            <intent-filter>
+187-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:147:13-152:29
+188
+189                <!-- 接收消息透传 -->
+190                <action android:name="com.tencent.android.xg.vip.action.PUSH_MESSAGE" />
+190-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:149:17-89
+190-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:149:25-86
+191                <!-- 监听注册、反注册、设置/删除标签、通知被点击等处理结果 -->
+192                <action android:name="com.tencent.android.xg.vip.action.FEEDBACK" />
+192-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:151:17-85
+192-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:151:25-82
+193            </intent-filter>
+194        </receiver>
+195        <!-- MQTT START -->
+196        <service
+196-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:155:9-157:80
+197            android:name="com.tencent.tpns.mqttchannel.services.MqttService"
+197-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:157:13-77
+198            android:exported="false"
+198-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:155:18-42
+199            android:process=":xg_vip_service" />
+199-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:156:13-46
+200
+201        <provider
+201-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:158:9-161:77
+202            android:name="com.tencent.tpns.baseapi.base.SettingsContentProvider"
+202-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:160:13-81
+203            android:authorities="com.example.ezchat.XG_SETTINGS_PROVIDER"
+203-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:161:13-74
+204            android:exported="false" />
+204-->/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/src/main/AndroidManifest.xml:159:13-37
+205        <!-- MQTT END -->
+206
+207        <provider
+207-->[androidx.lifecycle:lifecycle-process:2.2.0] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/1b8bf5e23e9a70b030eaeb641b1409a0/lifecycle-process-2.2.0/AndroidManifest.xml:25:9-29:43
+208            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+208-->[androidx.lifecycle:lifecycle-process:2.2.0] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/1b8bf5e23e9a70b030eaeb641b1409a0/lifecycle-process-2.2.0/AndroidManifest.xml:26:13-79
+209            android:authorities="com.example.ezchat.lifecycle-process"
+209-->[androidx.lifecycle:lifecycle-process:2.2.0] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/1b8bf5e23e9a70b030eaeb641b1409a0/lifecycle-process-2.2.0/AndroidManifest.xml:27:13-69
+210            android:exported="false"
+210-->[androidx.lifecycle:lifecycle-process:2.2.0] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/1b8bf5e23e9a70b030eaeb641b1409a0/lifecycle-process-2.2.0/AndroidManifest.xml:28:13-37
+211            android:multiprocess="true" />
+211-->[androidx.lifecycle:lifecycle-process:2.2.0] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/1b8bf5e23e9a70b030eaeb641b1409a0/lifecycle-process-2.2.0/AndroidManifest.xml:29:13-40
+212
+213        <activity
+213-->[com.tencent.tpns:tpns:1.2.6.0-release] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/318ff49b99f58602c8b768dc12baab4b/jetified-tpns-1.2.6.0-release/AndroidManifest.xml:56:9-59:20
+214            android:name="com.tencent.android.tpush.inappmessage.InAppMessageActivity"
+214-->[com.tencent.tpns:tpns:1.2.6.0-release] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/318ff49b99f58602c8b768dc12baab4b/jetified-tpns-1.2.6.0-release/AndroidManifest.xml:57:13-87
+215            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+215-->[com.tencent.tpns:tpns:1.2.6.0-release] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/318ff49b99f58602c8b768dc12baab4b/jetified-tpns-1.2.6.0-release/AndroidManifest.xml:58:13-72
+216        </activity> <!-- MQTT END -->
+217        <!-- 【必须】 请修改为APP的AccessId，“21”开头的10位数字，中间没空格   2100271539 A5QPA67K19PD -->
+218        <meta-data
+218-->[com.tencent.tpns:tpns:1.2.6.0-release] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/318ff49b99f58602c8b768dc12baab4b/jetified-tpns-1.2.6.0-release/AndroidManifest.xml:134:9-136:47
+219            android:name="XG_V2_ACCESS_ID"
+219-->[com.tencent.tpns:tpns:1.2.6.0-release] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/318ff49b99f58602c8b768dc12baab4b/jetified-tpns-1.2.6.0-release/AndroidManifest.xml:135:13-43
+220            android:value="注册应用的accessid" /> <!-- 【必须】 请修改为APP的AccessKey，“A”开头的12位字符串，中间没空格 -->
+220-->[com.tencent.tpns:tpns:1.2.6.0-release] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/318ff49b99f58602c8b768dc12baab4b/jetified-tpns-1.2.6.0-release/AndroidManifest.xml:136:13-44
+221        <meta-data
+221-->[com.tencent.tpns:tpns:1.2.6.0-release] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/318ff49b99f58602c8b768dc12baab4b/jetified-tpns-1.2.6.0-release/AndroidManifest.xml:138:9-140:48
+222            android:name="XG_V2_ACCESS_KEY"
+222-->[com.tencent.tpns:tpns:1.2.6.0-release] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/318ff49b99f58602c8b768dc12baab4b/jetified-tpns-1.2.6.0-release/AndroidManifest.xml:139:13-44
+223            android:value="注册应用的accesskey" />
+223-->[com.tencent.tpns:tpns:1.2.6.0-release] /Users/wentaopei/.gradle/caches/transforms-2/files-2.1/318ff49b99f58602c8b768dc12baab4b/jetified-tpns-1.2.6.0-release/AndroidManifest.xml:140:13-45
+224    </application>
+225
+226</manifest>

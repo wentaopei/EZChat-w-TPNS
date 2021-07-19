@@ -1,0 +1,189 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.ezchat"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+8-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/Project/SS_3/FrontEnd/Login/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/Project/SS_3/FrontEnd/Login/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/Project/SS_3/FrontEnd/Login/app/src/main/AndroidManifest.xml:5:5-67
+11-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/Project/SS_3/FrontEnd/Login/app/src/main/AndroidManifest.xml:5:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/Project/SS_3/FrontEnd/Login/app/src/main/AndroidManifest.xml:6:5-79
+12-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/Project/SS_3/FrontEnd/Login/app/src/main/AndroidManifest.xml:6:22-76
+13    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+13-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/Project/SS_3/FrontEnd/Login/app/src/main/AndroidManifest.xml:7:5-81
+13-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/Project/SS_3/FrontEnd/Login/app/src/main/AndroidManifest.xml:7:22-78
+14    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+14-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/Project/SS_3/FrontEnd/Login/app/src/main/AndroidManifest.xml:8:5-80
+14-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/Project/SS_3/FrontEnd/Login/app/src/main/AndroidManifest.xml:8:22-77
+15    <uses-permission android:name="android.permission.WRITE_INTERNAL_STORAGE" />
+15-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/Project/SS_3/FrontEnd/Login/app/src/main/AndroidManifest.xml:9:5-81
+15-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/Project/SS_3/FrontEnd/Login/app/src/main/AndroidManifest.xml:9:22-78
+16    <uses-permission android:name="android.permission.READ_INTERNAL_STORAGE" />
+16-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/Project/SS_3/FrontEnd/Login/app/src/main/AndroidManifest.xml:10:5-80
+16-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/Project/SS_3/FrontEnd/Login/app/src/main/AndroidManifest.xml:10:22-77
+17    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+17-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/Project/SS_3/FrontEnd/Login/app/src/main/AndroidManifest.xml:8:5-80
+17-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/Project/SS_3/FrontEnd/Login/app/src/main/AndroidManifest.xml:8:22-77
+18    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+18-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/Project/SS_3/FrontEnd/Login/app/src/main/AndroidManifest.xml:7:5-81
+18-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/Project/SS_3/FrontEnd/Login/app/src/main/AndroidManifest.xml:7:22-78
+19    <uses-permission android:name="android.permission.CAMERA" />
+19-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/Project/SS_3/FrontEnd/Login/app/src/main/AndroidManifest.xml:13:5-65
+19-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/Project/SS_3/FrontEnd/Login/app/src/main/AndroidManifest.xml:13:22-62
+20
+21    <uses-feature android:name="android.hardware.camera" />
+21-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/Project/SS_3/FrontEnd/Login/app/src/main/AndroidManifest.xml:15:5-60
+21-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/Project/SS_3/FrontEnd/Login/app/src/main/AndroidManifest.xml:15:19-57
+22
+23    <uses-permission android:name="android.hardware.camera.autofocus" />
+23-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/Project/SS_3/FrontEnd/Login/app/src/main/AndroidManifest.xml:17:5-73
+23-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/Project/SS_3/FrontEnd/Login/app/src/main/AndroidManifest.xml:17:22-70
+24    <uses-permission android:name="android.permission.FLASHLIGHT" />
+24-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/Project/SS_3/FrontEnd/Login/app/src/main/AndroidManifest.xml:18:5-69
+24-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/Project/SS_3/FrontEnd/Login/app/src/main/AndroidManifest.xml:18:22-66
+25
+26    <application
+26-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/Project/SS_3/FrontEnd/Login/app/src/main/AndroidManifest.xml:20:5-70:19
+27        android:name="app.AppController"
+27-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/Project/SS_3/FrontEnd/Login/app/src/main/AndroidManifest.xml:21:9-41
+28        android:allowBackup="true"
+28-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/Project/SS_3/FrontEnd/Login/app/src/main/AndroidManifest.xml:22:9-35
+29        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+29-->[androidx.core:core:1.1.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/c527b78844be871c44103f6f45a963fb/core-1.1.0/AndroidManifest.xml:24:18-86
+30        android:debuggable="true"
+31        android:icon="@mipmap/ic_launcher"
+31-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/Project/SS_3/FrontEnd/Login/app/src/main/AndroidManifest.xml:23:9-43
+32        android:label="@string/app_name"
+32-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/Project/SS_3/FrontEnd/Login/app/src/main/AndroidManifest.xml:24:9-41
+33        android:networkSecurityConfig="@xml/network_security_config"
+33-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/Project/SS_3/FrontEnd/Login/app/src/main/AndroidManifest.xml:25:9-69
+34        android:roundIcon="@mipmap/ic_launcher_round"
+34-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/Project/SS_3/FrontEnd/Login/app/src/main/AndroidManifest.xml:26:9-54
+35        android:supportsRtl="true"
+35-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/Project/SS_3/FrontEnd/Login/app/src/main/AndroidManifest.xml:27:9-35
+36        android:testOnly="true"
+37        android:theme="@style/AppTheme" >
+37-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/Project/SS_3/FrontEnd/Login/app/src/main/AndroidManifest.xml:28:9-40
+38        <uses-library
+38-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/Project/SS_3/FrontEnd/Login/app/src/main/AndroidManifest.xml:29:9-88
+39            android:name="org.apache.http.legacy"
+39-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/Project/SS_3/FrontEnd/Login/app/src/main/AndroidManifest.xml:29:23-60
+40            android:required="false" />
+40-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/Project/SS_3/FrontEnd/Login/app/src/main/AndroidManifest.xml:29:61-85
+41
+42        <activity android:name="com.example.ezchat.ui.activity.NewPostActivity" />
+42-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/Project/SS_3/FrontEnd/Login/app/src/main/AndroidManifest.xml:30:9-74
+42-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/Project/SS_3/FrontEnd/Login/app/src/main/AndroidManifest.xml:30:19-62
+43        <activity android:name="com.example.ezchat.ui.activity.PhotoActivity" />
+43-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/Project/SS_3/FrontEnd/Login/app/src/main/AndroidManifest.xml:31:9-72
+43-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/Project/SS_3/FrontEnd/Login/app/src/main/AndroidManifest.xml:31:19-60
+44        <activity
+44-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/Project/SS_3/FrontEnd/Login/app/src/main/AndroidManifest.xml:32:9-38:20
+45            android:name="com.example.ezchat.ui.activity.LaunchActivity"
+45-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/Project/SS_3/FrontEnd/Login/app/src/main/AndroidManifest.xml:32:19-61
+46            android:theme="@style/AppSplash" >
+46-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/Project/SS_3/FrontEnd/Login/app/src/main/AndroidManifest.xml:33:13-45
+47            <intent-filter>
+47-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/Project/SS_3/FrontEnd/Login/app/src/main/AndroidManifest.xml:34:13-37:29
+48                <action android:name="android.intent.action.MAIN" />
+48-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/Project/SS_3/FrontEnd/Login/app/src/main/AndroidManifest.xml:35:17-69
+48-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/Project/SS_3/FrontEnd/Login/app/src/main/AndroidManifest.xml:35:25-66
+49
+50                <category android:name="android.intent.category.LAUNCHER" />
+50-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/Project/SS_3/FrontEnd/Login/app/src/main/AndroidManifest.xml:36:17-77
+50-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/Project/SS_3/FrontEnd/Login/app/src/main/AndroidManifest.xml:36:27-74
+51            </intent-filter>
+52        </activity>
+53
+54        <uses-library
+54-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/Project/SS_3/FrontEnd/Login/app/src/main/AndroidManifest.xml:29:9-88
+55            android:name="org.apache.http.legacy"
+55-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/Project/SS_3/FrontEnd/Login/app/src/main/AndroidManifest.xml:29:23-60
+56            android:required="false" />
+56-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/Project/SS_3/FrontEnd/Login/app/src/main/AndroidManifest.xml:29:61-85
+57
+58        <activity
+58-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/Project/SS_3/FrontEnd/Login/app/src/main/AndroidManifest.xml:42:9-45:67
+59            android:name="com.example.ezchat.ui.activity.GroupChatActivity"
+59-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/Project/SS_3/FrontEnd/Login/app/src/main/AndroidManifest.xml:43:13-58
+60            android:label="Group Chat"
+60-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/Project/SS_3/FrontEnd/Login/app/src/main/AndroidManifest.xml:44:13-39
+61            android:windowSoftInputMode="adjustPan|stateHidden" />
+61-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/Project/SS_3/FrontEnd/Login/app/src/main/AndroidManifest.xml:45:13-64
+62        <activity
+62-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/Project/SS_3/FrontEnd/Login/app/src/main/AndroidManifest.xml:46:9-48:39
+63            android:name="com.example.ezchat.ui.activity.MomentsActivity"
+63-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/Project/SS_3/FrontEnd/Login/app/src/main/AndroidManifest.xml:47:13-56
+64            android:label="Moments" />
+64-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/Project/SS_3/FrontEnd/Login/app/src/main/AndroidManifest.xml:48:13-36
+65        <activity android:name="com.example.ezchat.ui.activity.AcceptRequestActivity" />
+65-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/Project/SS_3/FrontEnd/Login/app/src/main/AndroidManifest.xml:49:9-71
+65-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/Project/SS_3/FrontEnd/Login/app/src/main/AndroidManifest.xml:49:19-68
+66        <activity android:name="com.example.ezchat.ui.activity.SearchNewFriendsActivity" />
+66-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/Project/SS_3/FrontEnd/Login/app/src/main/AndroidManifest.xml:50:9-74
+66-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/Project/SS_3/FrontEnd/Login/app/src/main/AndroidManifest.xml:50:19-71
+67        <activity android:name="com.example.ezchat.ui.activity.FriendsProfileActivity" />
+67-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/Project/SS_3/FrontEnd/Login/app/src/main/AndroidManifest.xml:51:9-72
+67-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/Project/SS_3/FrontEnd/Login/app/src/main/AndroidManifest.xml:51:19-69
+68        <activity android:name="com.example.ezchat.ui.activity.FriendSearchActivity" />
+68-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/Project/SS_3/FrontEnd/Login/app/src/main/AndroidManifest.xml:52:9-70
+68-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/Project/SS_3/FrontEnd/Login/app/src/main/AndroidManifest.xml:52:19-67
+69        <activity android:name="com.example.ezchat.ui.activity.SuccessSignUp" />
+69-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/Project/SS_3/FrontEnd/Login/app/src/main/AndroidManifest.xml:53:9-63
+69-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/Project/SS_3/FrontEnd/Login/app/src/main/AndroidManifest.xml:53:19-60
+70
+71        <meta-data
+71-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/Project/SS_3/FrontEnd/Login/app/src/main/AndroidManifest.xml:55:9-57:63
+72            android:name="com.google.android.actions"
+72-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/Project/SS_3/FrontEnd/Login/app/src/main/AndroidManifest.xml:56:13-54
+73            android:resource="@xml/network_security_config" />
+73-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/Project/SS_3/FrontEnd/Login/app/src/main/AndroidManifest.xml:57:13-60
+74
+75        <activity
+75-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/Project/SS_3/FrontEnd/Login/app/src/main/AndroidManifest.xml:58:9-60:48
+76            android:name="com.example.ezchat.ui.activity.ChatActivity"
+76-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/Project/SS_3/FrontEnd/Login/app/src/main/AndroidManifest.xml:59:13-53
+77            android:label="Chat with Friend" />
+77-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/Project/SS_3/FrontEnd/Login/app/src/main/AndroidManifest.xml:60:13-45
+78        <activity android:name="com.example.ezchat.ui.activity.UserActivity" />
+78-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/Project/SS_3/FrontEnd/Login/app/src/main/AndroidManifest.xml:61:9-62
+78-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/Project/SS_3/FrontEnd/Login/app/src/main/AndroidManifest.xml:61:19-59
+79        <activity android:name="com.example.ezchat.ui.activity.Pub_MainPage" />
+79-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/Project/SS_3/FrontEnd/Login/app/src/main/AndroidManifest.xml:62:9-62
+79-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/Project/SS_3/FrontEnd/Login/app/src/main/AndroidManifest.xml:62:19-59
+80        <activity android:name="com.example.ezchat.ui.activity.RegisterActivity" />
+80-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/Project/SS_3/FrontEnd/Login/app/src/main/AndroidManifest.xml:63:9-66
+80-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/Project/SS_3/FrontEnd/Login/app/src/main/AndroidManifest.xml:63:19-63
+81        <activity android:name="com.example.ezchat.ui.activity.Admin_MainPage" />
+81-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/Project/SS_3/FrontEnd/Login/app/src/main/AndroidManifest.xml:64:9-64
+81-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/Project/SS_3/FrontEnd/Login/app/src/main/AndroidManifest.xml:64:19-61
+82        <activity
+82-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/Project/SS_3/FrontEnd/Login/app/src/main/AndroidManifest.xml:65:9-69:20
+83            android:name="com.example.ezchat.ui.login.LoginActivity"
+83-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/Project/SS_3/FrontEnd/Login/app/src/main/AndroidManifest.xml:66:13-51
+84            android:label="@string/app_name"
+84-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/Project/SS_3/FrontEnd/Login/app/src/main/AndroidManifest.xml:67:13-45
+85            android:theme="@style/NoTitle" >
+85-->/Users/KenPei/Desktop/Documents/ISU/Classes/Fall 2019/COM_S_309/Project/SS_3/FrontEnd/Login/app/src/main/AndroidManifest.xml:68:13-43
+86        </activity>
+87
+88        <provider
+88-->[androidx.lifecycle:lifecycle-process:2.1.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/c75b512c68f7bb7a7c5a931aae563be5/lifecycle-process-2.1.0/AndroidManifest.xml:23:9-27:43
+89            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+89-->[androidx.lifecycle:lifecycle-process:2.1.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/c75b512c68f7bb7a7c5a931aae563be5/lifecycle-process-2.1.0/AndroidManifest.xml:24:13-79
+90            android:authorities="com.example.ezchat.lifecycle-process"
+90-->[androidx.lifecycle:lifecycle-process:2.1.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/c75b512c68f7bb7a7c5a931aae563be5/lifecycle-process-2.1.0/AndroidManifest.xml:25:13-69
+91            android:exported="false"
+91-->[androidx.lifecycle:lifecycle-process:2.1.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/c75b512c68f7bb7a7c5a931aae563be5/lifecycle-process-2.1.0/AndroidManifest.xml:26:13-37
+92            android:multiprocess="true" />
+92-->[androidx.lifecycle:lifecycle-process:2.1.0] /Users/KenPei/.gradle/caches/transforms-2/files-2.1/c75b512c68f7bb7a7c5a931aae563be5/lifecycle-process-2.1.0/AndroidManifest.xml:27:13-40
+93    </application>
+94
+95</manifest>

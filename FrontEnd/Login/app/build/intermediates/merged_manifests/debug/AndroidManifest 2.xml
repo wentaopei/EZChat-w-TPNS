@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.ezchat"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="24"
+        android:targetSdkVersion="29" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_INTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_INTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.CAMERA" />
+
+    <uses-feature android:name="android.hardware.camera" />
+
+    <uses-permission android:name="android.hardware.camera.autofocus" />
+    <uses-permission android:name="android.permission.FLASHLIGHT" />
+
+    <application
+        android:name="app.AppController"
+        android:allowBackup="true"
+        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+        android:debuggable="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:networkSecurityConfig="@xml/network_security_config"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:testOnly="true"
+        android:theme="@style/AppTheme" >
+        <uses-library
+            android:name="org.apache.http.legacy"
+            android:required="false" />
+
+        <activity android:name="com.example.ezchat.ui.activity.NewPostActivity" />
+        <activity android:name="com.example.ezchat.ui.activity.PhotoActivity" />
+        <activity
+            android:name="com.example.ezchat.ui.activity.LaunchActivity"
+            android:theme="@style/AppSplash" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <uses-library
+            android:name="org.apache.http.legacy"
+            android:required="false" />
+
+        <activity
+            android:name="com.example.ezchat.ui.activity.GroupChatActivity"
+            android:label="Group Chat"
+            android:windowSoftInputMode="adjustPan|stateHidden" />
+        <activity
+            android:name="com.example.ezchat.ui.activity.MomentsActivity"
+            android:label="Moments" />
+        <activity android:name="com.example.ezchat.ui.activity.AcceptRequestActivity" />
+        <activity android:name="com.example.ezchat.ui.activity.SearchNewFriendsActivity" />
+        <activity android:name="com.example.ezchat.ui.activity.FriendsProfileActivity" />
+        <activity android:name="com.example.ezchat.ui.activity.FriendSearchActivity" />
+        <activity android:name="com.example.ezchat.ui.activity.SuccessSignUp" />
+
+        <meta-data
+            android:name="com.google.android.actions"
+            android:resource="@xml/network_security_config" />
+
+        <activity
+            android:name="com.example.ezchat.ui.activity.ChatActivity"
+            android:label="Chat with Friend" />
+        <activity android:name="com.example.ezchat.ui.activity.UserActivity" />
+        <activity android:name="com.example.ezchat.ui.activity.Pub_MainPage" />
+        <activity android:name="com.example.ezchat.ui.activity.RegisterActivity" />
+        <activity android:name="com.example.ezchat.ui.activity.Admin_MainPage" />
+        <activity
+            android:name="com.example.ezchat.ui.login.LoginActivity"
+            android:label="@string/app_name"
+            android:theme="@style/NoTitle" >
+        </activity>
+
+        <provider
+            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+            android:authorities="com.example.ezchat.lifecycle-process"
+            android:exported="false"
+            android:multiprocess="true" />
+    </application>
+
+</manifest>

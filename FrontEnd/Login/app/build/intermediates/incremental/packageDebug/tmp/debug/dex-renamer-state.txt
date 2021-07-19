@@ -1,4 +1,4 @@
-#Mon Jul 19 15:22:39 CST 2021
+#Mon Jul 19 18:10:19 CST 2021
 base.1=/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/build/intermediates/dex/debug/mergeProjectDexDebug/out/classes.dex
 path.1=classes.dex
 base.0=/Users/wentaopei/Desktop/EZChat-w-TPNS/FrontEnd/Login/app/build/intermediates/dex/debug/mergeExtDexDebug/out/classes.dex
